@@ -1,0 +1,17 @@
+div,p,span{
+       -webkit-user-select:text;
+       -moz-user-select:text;
+       -ms-user-select:text;
+       user-select:text;
+}
+
+
+直接上代码吧
+
+最近在做公众号的功能，发现了一个问题就是在微信公众号里面的网页居然不能随意复制黏贴文字
+查了一下别人家的就可以
+所以在网上找了很久最后发现了这个代码
+加上之后就好使了，所以在此记录 一下
+
+
+https://blog.csdn.net/weixin_44598071/article/details/102664792
