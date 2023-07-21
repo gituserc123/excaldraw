@@ -1,0 +1,49 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "HePVUiaOS71ZXzMx-WV4Y",
+      "type": "text",
+      "x": 563,
+      "y": 229,
+      "width": 209.84375,
+      "height": 386.4,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 90,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1416913960,
+      "version": 245,
+      "versionNonce": 1558729000,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1689907607816,
+      "link": null,
+      "locked": false,
+      "text": "第三章\n1.1 C\n1.2 D\n1.3 B\n1.4 A\n1.5 C\n1.6 D\n1.7 B\n1.8 C\n1.9 A\n1.10 C\n2.1 have seen\n2.2 went\n2.3 had seen\n2.4 saw\n2.5 came\n2.6 want\n2.7 guess\n2.8 will see\n2.9 will start   A:will have start\n2.10 will begin   A:begin",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 382,
+      "containerId": null,
+      "originalText": "第三章\n1.1 C\n1.2 D\n1.3 B\n1.4 A\n1.5 C\n1.6 D\n1.7 B\n1.8 C\n1.9 A\n1.10 C\n2.1 have seen\n2.2 went\n2.3 had seen\n2.4 saw\n2.5 came\n2.6 want\n2.7 guess\n2.8 will see\n2.9 will start   A:will have start\n2.10 will begin   A:begin",
+      "lineHeight": 1.15,
+      "isFrameName": false
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#f1f3f5"
+  },
+  "files": {}
+}
