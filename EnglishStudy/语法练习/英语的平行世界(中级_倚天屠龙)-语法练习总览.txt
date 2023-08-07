@@ -1,4 +1,6 @@
 【G72】中级语法开篇：关系代词
+【练习】
+
 一、概念题
 
 定从的主句肯定是 1._______________的
@@ -49,8 +51,11 @@ This is the reason 24. _______________ she told me.
 
 This is the reason 25. _______________ leads me here.
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 【G73】关系词三大技巧
+【练习】
+
 一、概念题
 
 我们在判断定语从句的从句部分是否缺成分的时候，有三大技巧：
@@ -239,8 +244,6 @@ I have plenty of friends, 42._______________ one-third 43._______________ made t
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 【G77】非限制性定语从句
-Morty又一封神之作！
-
 一、概念题
 
 限制性定语从句与非限制性定语从句的区别
@@ -519,6 +522,7 @@ A. where      B. there            C. which          D. when
 
 40.（2014湖南卷）I am looking forward to the day _________ my daughter can read this book and know my feelings for her. 
 
+
 【G81】定从实战练习3：中级难度
 1.（2004浙江卷）Anyway, that evening, _________ I’ll tell you more about later, I ended up staying at Rachel’s place.    
 
@@ -589,6 +593,7 @@ A．like               B．as                  C．that               D．which
 ---------------------------------------------------------------------------------------------------------------------------------------
 G82-G83定从实战练习4-5
 【G82】定从实战练习4：中级难度
+
 16. (2007 江苏卷) He was educated at the local high school, _________he went on to Beijing University.
 
 17. (2007 江西卷) After graduation she reached a point in her career _________she needed to decide what to do.    
@@ -611,17 +616,23 @@ G82-G83定从实战练习4-5
 
 26. (08四川卷) For many cities in the world, there is no room to spread our further, _________ New York is an example.
 
+
 27. (2013福建) The book tells stories of the earthquake through the eyes of those _________ lives were affected.
 
 28. (2013江苏) The president of the World Bank says he has a passion for China, _________he remembers starting as early as his childhood.
 
+
 29. Between the two parts of the concert is an interval, _________ the audience can buy ice-cream.
+
 
 30. （安徽）Some experts think reading is the fundamental skill upon _________school education depends.
 
 31.（重庆）He wrote many children’ s books, nearly half of _________ were published in the 1990s.
 
 【G83】定从实战练习5：高级难度
+
+Morty老师的话：定从高级难度真的难，所以你做题时没做对也不必灰心，因为绝大部分情况你都遇不到这种题。
+
 一、选择题
 
 1.（2007重庆卷） Human facial expressions differ from those of animals in the degree _________they can be controlled on purpose.
@@ -645,6 +656,7 @@ A. all of which B. each of which    C. all of them     D. each of them
 6. The boss whose department Ms. King worked ten years ago looks down upon women.
 
 7. I, who is your good friend, will try my best to help you.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 【G84】名词性从句概述
@@ -699,26 +711,6 @@ A. all of which B. each of which    C. all of them     D. each of them
 五、定语从句和名词性从句里面都有whose, 但是定语从句里面的whose可以改成78.__________，或79.__________，而名词性从句里的whose不能
 
 Morty老师的话：这节课一定要彻底理解我讲的从句做题步骤，并深深地印入脑海里，成为你分析句子以及做题的习惯。
-
----------------------------------------------------------------------------------------------------------------------------------------
-【G84+】再讲where
-一、填空题
-
-Tell me where your destination is.
-
-上述句子是一个1.__________从句，它的引导词是2.__________，引导词的词性是3.__________，在从句中作4.__________
-
-Tell me where the meeting is to be held.
-
-上述句子是一个5.__________从句，它的引导词是6.__________，引导词的词性是7.__________，在从句中作8.__________
-
-Tell me where you are coming from.
-
-上述句子是一个9.__________从句，它的引导词是10.__________，引导词的词性是11.__________，在从句中作12._________
-
-what与where的异同点：
-
-what有13.__________和14.__________两种词性，因此可以在从句中作15.__________和16.__________；where有17.__________和名词两种词性，在作名词时，where主要在从句中作介词后面的18.__________，where还可以在从句中作19.__________或20.__________，但where最主要的作用还是在从句中作21.__________
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 【G85】名词性从句六点注意事项
@@ -939,8 +931,11 @@ A. where       B. how      C. why      D. If
 17.__________we understand things has a lot to do with what we feel.（北京）
 
 A. Where      B.How      C.Why     D. When
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 【G88】名词性从句中级练习
+【练习】
+
 18.—It’s thirty years since we last met. (四川)
 
 —But I still remember the story, believe it or not, _________ we got lost on a rainy night.
@@ -983,6 +978,7 @@ A. as        B. that        C. which       D. what
 
 A. who       B. where         C. what         D. how
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 G89-G90名词性从句高级练习
 【G89】名词性从句高级练习（上）
@@ -1020,6 +1016,7 @@ A. that       B. where        C. what       D. why
 8. __________ Li Bai, a great Chinese poet, was born is known to the public, but some won’t accept it. （江苏）
 
 A. That         B. Why         C. Where       D. How
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 【G91】初探状语从句
 一、概念题
@@ -1086,6 +1083,8 @@ I like sitting in the dark 47.__________ she loves dancing in the park.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 【G92】when-while-as困难版
+【练习】
+
 一、概念题
 
 表示一…就应该用引导词1.__________
@@ -1209,6 +1208,1804 @@ Phoebe: 31.__________ when are you into swing music?
 Chandler: Oh 32.__________ forever! I used to go all over town listening to bands!
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+【G95】till，until，not until
+一、概念题
+
+till和until都可以翻译成1.__________，not…until可以翻译成2.__________
+
+till和until表示一直3.__________某事，直到某一个4.__________，在这个5.__________之后就6.__________这件事了；而not until是相反的意思，即表示一直7.__________某事，直到某个8.__________，在这个9.__________之后就10.__________这件事了
+
+因为till和until翻译成11.__________，从时间上，明显就表示发生在12.__________，所以till和until引导的从句，一般不会位于13.__________之前
+
+二、按要求构造句子
+
+14. I didn't manage to do it__________ you had explained how.
+
+15.将上面这个句子倒装
+
+
+
+16.Not until all the fish died in the river __________ how serious the pollution was. (95 NMET)
+A. did the villagers realize
+B. the villagers realized
+C. the villagers did realize
+D. didn't the villagers realize
+
+17.将上面正确的句子改成不倒装的样子
+
+
+
+三、兴趣题
+
+接下来的这个句子来源于我好多年前在《经济学人》上读到的一篇文章，叫London is a great cesspool，大家跟着我一步一步还原这个句子。
+
+18.这座城市直到1980年代才回到了中心舞台（翻译）
+
+
+
+19.把翻译过的句子倒装：
+
+
+
+20.把倒装过的句子强调：
+
+
+
+21.把强调过的句子插入一个非限制性定语从句，意为“当伦敦再次繁荣之后”
+
+
+
+22.最后再在合适的位置加上同位语
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G96】一怎么就
+一、概念题
+
+“一…就”之所以算时间状语，是因为它本质上是表示两个动作发生的1.__________挨得非常近
+
+常见的表示“一…就…”的引导词有：2.__________ 3.__________...than…，hardly…4.__________/5.__________，6.__________等
+
+还有些词可以表示“一…就…”：
+
+the相关：the 7.__________，the 8.__________，the 9.__________等
+
+副词：immediately，instantly，directly等
+
+还有些词可以引导时间状语从句，如：
+
+time相关：10.__________，11.__________，12.__________等
+
+以上三组词之所以能够引导时间状语从句，本质上是因为13.______________________________
+
+虽然意思表示“一…就…”的词很多，但是它们还是有细微的差别的，比如有两组词只能表示过去了的，已经发生了的“一…就…”，它们分别是14.____________________，和15.____________________，因此这个时候从句部分的时态应该用16.__________时，而主句的时态应该用17.__________时，并且这个时候句子里面有18.__________副词，因此把它们提到句首的话还会诱发句子的19.__________
+
+二、按要求构造句子
+
+20.她一听到这个消息就昏了过去。（翻译，含than）
+
+
+
+21.把上述句子倒装
+
+
+
+22.她一听到这个消息就昏了过去。（翻译，含when）
+
+
+
+23.把上述句子倒装
+
+
+
+24.我一听到这个消息就来了。（翻译，含scarcely）
+
+
+
+25.我一听到这个消息就来了。（翻译，含instant）
+
+
+
+26.我一听到这个消息就来了。（翻译，含instantly）
+
+
+
+27.每次他迟到，都以交通拥堵为借口。（翻译，含time）
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G97】让步状语从句
+一、概念题
+
+可以表示“虽然”的连接词有：1.__________，2.__________，3.__________，4.__________
+
+在引导句子的时候，5.__________必须倒装，否则会与它引导的其他状语从句混淆；6.__________可倒装可不倒装；7.__________和8.__________不可倒装，其中后者只能用在句首，原因是用在句中的时候表示的是9.__________，相当于是并列句的转折关系
+
+在Morty老师的体系里，最能体现让步状语从句的两个引导词是10.__________和11.__________，因为它们表达的语气最强烈
+
+可以表示“不管、无论”的引导词有12.__________，13.__________，14.__________等，还有15.__________，16.__________，17.__________也可以，但是前者的使用范围是大于后者的，即前者既可以运用在18.__________从句中，也可以运用在19.__________从句中，而后者只能运用于20.__________从句
+
+whatever对比however：
+
+whatever有21.__________和22.__________两种词性，所以它在从句中可以作23.__________，24.__________，25.__________，或26.__________，而however只有27.__________这种词性，所以它在从句中作28.__________
+
+可以表示“不管是…还是…”的引导词是29.__________
+
+二、填空题
+
+We will not give up 30. __________ we shall fail ten times.
+
+31.__________ you believe it or not, it is true.
+
+32. Many of them turned a deaf ear to his advice, __________ they knew it to be valuable.
+
+33. I’ll buy it, __________ much it may cost.
+
+34. I’ll buy it, __________ it takes.
+
+35. I’ll buy it, __________ it takes me.
+
+36. I’ll finish my work, __________ long it takes.
+
+37. I’ll finish my task, __________ __________ __________ long it takes.
+
+38. The lawyer seldom wears anything other than a suit __________ the season.
+
+39. Nucleic acid tests are required for all overseas arrivals in China, __________ their nationalities are.
+
+40. Nucleic acid tests are required for all overseas arrivals in China, __________ you are young or old.
+
+41. __________ hard I tried, I could not memorize the text.
+
+42. In peace, too, the Red Cross is expected to send help __________ there is human suffering.
+
+43.__________ pressures there can be or inferences one can make, people become __________ they do, __________ it may not be in compliance with their true desires.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G98】条件状语从句
+一、概念题
+
+条件状语从句的标志词有：1.__________，2.__________和3.__________
+
+“除非”转换过来的意思是4.__________，所以如果你想填5.__________，一定要用6.__________来验证一下逻辑通不通
+
+条件状语从句一些不常见的引导词有7.__________，8.__________，9.__________等
+
+if可以翻译成10.__________，11.__________，前者倾向于表达可能实现的事情，后者倾向于表达不可能实现的事情。当说话者认为这件事情不可能发生的时候，就是我们所谓的12.____________________
+
+二、填空题
+
+English is easy to learn 13.__________ you learn it with Morty.
+
+You can’t learn English well 14.__________ you learn it with Morty.
+
+15.__________ hip hop should die before I wake, I’ll load an extended clip and body them all day.
+
+The car will keep running 16.__________ you take good care of it.
+
+We will arrest you right now 17.__________ you have an alibi.
+
+You can drive the car 18.__________ (that) you have a valid license.
+
+You can drive the car 19.__________ __________ (that) you have a valid license.
+
+How much do you have to pay in total 20.__________ four of you go together?
+
+21.__________ you're clear about where you want to go, the rest of the world will either help you get there or get out the way.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G99】原因状语从句+一个手表理论
+一、概念题
+
+常见的原因状语从句的引导词有：1.__________，2.__________，3.__________，4.__________，其中5.__________语气最为强烈，6.__________次之，7.__________一般翻译成既然，而8.__________的语气是最弱的
+
+不常见的原因状语从句的引导词有：9.__________，10.__________，11.__________，12.__________
+
+because和because of的区别：
+
+because是一个13.__________词，所以它后面要接14.__________，而because of是一个15.__________词，所以它后面要接一个16.__________
+
+一个手表理论：
+
+一个手表理论本质上就是在说连接词的个数等于17.__________
+
+具体的运用有because引导从句的时候不能和18.__________连用；although引导从句的时候不能和19.__________连用。因为because在引导从句的时候代表这个句子是20.__________从句，而21.__________在引导句子的时候，就代表这个句子是22.__________句的23.__________关系，所以两者同时出现，就冲突了；同理，although在引导从句的时候代表这个句子是24.__________从句，而25.__________在引导句子的时候，就代表这个句子是26.__________的27.__________关系，所以两者同时出现，也冲突了
+
+二、填空题
+
+I tell you this 28.__________ there is no shame in getting your money’s worth.
+
+The movie had been at the theater since January, 29.__________ Mr. Bellow loved anything with John Wayne in it.
+
+Muslimsregard green as a symbol of heaven mainly 30.__________ their cultural values.
+
+We have a very poor understanding of our own faces 31.__________ we have little experience of looking at them.
+
+32.__________ the elder boy Tom is quite a proficient reader, Brenda can skillfully get him to read any notes brought home from school.
+
+三、判断正误
+
+33. I became a teacher because of you. __________
+
+34. I became a teacher because I wanted to take over your responsibility. __________
+
+35. I became a teacher because of I wanted to take over your responsibility. __________
+
+36. I became a teacher because of the fact that I wanted to take over your responsibility. __________
+
+37. Although a little bit tired, we carried on to the end of the film. __________
+
+38. Since you are not busy today, so you can leave for dinner. __________
+
+39. Since January the movie had been at the theater, so almost everyone had a chance to watch it once or twice. __________
+
+40. Though the task is pretty difficult, but I will not give up. __________
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G100】地点丨目的丨结果状语从句
+一、概念题
+
+地点状语从句的引导词一般就是指1.__________，地点状语从句是指由2.__________引导的从句，从3.__________角度修饰主句里面的一个4.__________
+
+5.__________被Morty老师评为最能体现状语从句思维的两个词之一，另外一个词是6.__________
+
+目的状语从句的引导词常见的有7.__________和8.__________，翻译成9.__________
+
+目的状语从句不常见的引导词有10.__________，11.__________和12.__________，翻译成13.__________或14.__________，它其实就是15.__________不，16.__________不的意思
+
+结果状语从句的引导词常见的有17.__________和18.__________，翻译成19.__________
+
+such的词性是20.__________，所以后面要跟21.__________；而so的词性是22.__________，所以后面要跟23.__________或24.__________，但是在Morty老师的体系里，many，much，little和few加名词也叫名词短语，按理说它们应该接在such的后面，但是这是例外，在结果状语从句里，这些短语还是接在25.__________的后面，原因可能是发音的问题，也可能是26.__________修饰的重点就是many，much，little和few而不是它们之后的名词
+
+二、按要求回答问题
+
+“有人的地方就有江湖”
+
+假设这个句子是一句英文，那么它的主句是27.____________________，它的从句是28.____________________，这个句子算29.__________从句，因为它的主句是30.__________的，它的从句是从31.__________角度修饰32.__________词33.__________
+
+“这场比赛是如此的经典，以至于我现在都还记得鲁尼与吉格斯两翼齐飞”
+
+假设这个句子是一句英文，那么它是一个34.__________从句，主句部分是35.______________________________，从句部分是36.______________________________，从句部分从37.__________角度修饰整个38.__________，或者说修饰里面的动词39.__________
+
+“我把瓶塞紧紧握在手中，以免忘记我还在接水”
+
+假设这个句子是一句英文，那么它是一个40.__________从句，主句部分是41.____________________，从句部分是42.____________________，从句部分从43.__________角度修饰整个44.__________，或者说修饰里面的动词45.__________
+
+三、填空题
+
+The outside of EP only gets warm to the touch 46.__________ it will not burn children or pets.
+
+This is extremely difficult for most people, 47.__________ they are accustomed to
+
+overlooking such details.
+
+It was 48.__________ a sweet idea 49.__________ his mother agreed immediately.
+
+The plan is 50.__________ great 51.__________ I can’t wait to put it into practice.
+
+It is 52.__________ wonderful an idea 53.__________ I can see no reason to deny your request.
+
+There was a beautiful picture, right 54.__________ I could enjoy it: on the ceiling.
+
+They watch 55.__________ others bury their food and steal it.
+
+56.__________ I thought I was driving them to success I was actually driving them away.
+
+It had been a long–standing joke in our family 57.__________ I wanted a piano 58.__________ I could take lessons.
+
+They had been 59.__________ a happy distraction 60.__________ I have saved all the postcards and still bring them out to read 61.__________ I need a lift.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G101】比较丨方式状语从句
+一、概念题
+
+比较状语从句常见的引导词有：1.__________，2.__________和the+3.__________, the+4.__________
+
+5.__________我们可以把它称之为越级比较或者不对称比较
+
+6.__________我们可以把它称之为同级比较或者对称比较
+
+7.__________我们可以把它称之为螺旋比较或者循环比较
+
+8.__________因为是同级比较，所以它中间应该用9.__________或10.__________的11.__________级，另外如果有倍数，应该放在它的12.__________
+
+as long as本来的意思是像…一样13.__________，它也可以表示14.__________用在15.__________状语从句当中；as soon as本来的意思是像…一样16.__________，它也可以表示17.__________用在18.__________状语从句当中；as well as本来的意思是像…一样19.__________，它也可以表示20.__________，作用类似于并列句中的21.__________
+
+方式状语从句常见的引导词是22.__________，23.__________/24.__________
+
+其中25.__________一般翻译成26.__________，27.__________，按照；28.__________/as though一般翻译成似乎，29.__________
+
+二、填空题
+
+Actions speak louder 30.__________ words.
+
+Two heads are better 31.__________ one.
+
+A man-made robot, 32.__________ clever it is, is still not 33.__________ clever 34.__________ human beings.
+
+I think a perfect robot can think 35.__________ human beings 36.__________.
+
+We human beings tend to think of ourselves 37.__________ better-looking 38.__________ we actually are.
+
+"Dance 39.__________ nobody's watching; love 40.__________ you've never been hurt; sing 41.__________ nobody's listening; live 42.__________ it's heaven on earth." --Mark Twain.
+
+I don’t care what other people think of me as 43.__________ as you love me.
+
+I will give you a call as 44.__________ as I arrive in London.
+
+45.__________ the word or phrase is, 46.__________ its component syllables are. (long, short)
+
+The answer depends largely on cultural values as 47.__________ as personal experiences.
+
+The hot sun had caused the dough to double in size and the fermenting yeast (酵母) made the surface shake and sigh 48.__________ it were breathing.
+
+49.__________ the local villagers were poor, 50.__________they offered their
+
+homes, hearts, and food 51.__________ I 52.__________ their own family.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G102】状语从句易混淆点全总结
+一、概念题
+
+while可以引导两种状语从句，分别是1.__________状语从句，它后面必须加2.__________动词；还有3.__________状语从句，放句首翻译成4.__________，放句中翻译成5.__________，这时其实是并列句的6.__________关系
+
+since可以引导两种状语从句，分别是7.__________状语从句，翻译成8.__________它后面一般情况下需要接9.__________（时态）；还可以引导
+
+10. __________状语从句，可以翻译成11.__________
+
+as可以引导五种状语从句，分别是：
+
+引导12.__________状语从句时，翻译成13.__________，一边…一边
+
+引导14.__________状语从句时必须要15.__________，不然要和其他状语从句搞混淆
+
+引导16.__________状语从句时，翻译成因为，17.__________
+
+引导18.__________状语从句时，一般是两个as搭配使用
+
+引导19.__________状语从句时，翻译成20.__________，21.__________，按照。另外as long as可以引导22.__________状语从句，翻译成23.__________，as soon as可以引导24.__________状语从句，翻译成25.__________
+
+26.__________ if/27.__________ though引导28.__________状语从句，翻译成29.__________，30.__________
+
+31.__________ if/32.__________ though引导33.__________状语从句，翻译成34.__________，35.__________
+
+
+so that引导36.__________状语从句，翻译成37.__________，38.__________
+
+so…that引导39.__________状语从句，翻译成40.____________________
+
+
+
+if only和only if都引导41.__________状语从句。区别在于if only表达这个42.__________要实现的概率太低或者说是不可能的，虚幻的，所以用在43.__________当中；而only if是对if 的加强，意思是当且仅当满足这种44.__________时，才会触发下一步的行为
+
+in case 翻译成45.__________/46.__________时引导47.__________状语从句；翻译成48.__________时，引导49.__________状语从句
+
+
+
+二、填空题
+
+50. __________ I could travel through time.
+
+51. Madison will eat the fruit__________ it is an apple.
+
+52. We put on thick sweaters, __________ it was cold
+
+53. __________ you haven't figured it out, let me explain one more time.
+
+54. Here are the instructions about what to do __________ fire.
+
+55. I will tell you the truth __________ you tell me first.
+
+56. The word “onomatopoeia,” for example, is made of six very short syllables, __________ “couch” is made of one longer one.
+
+57. __________ total solar eclipse lasts only for a few minutes and can be seen only in a small area of a few kilometers, total lunar eclipse can last for several hours and can be seen over much of the planet.
+
+58. I’ve made some sandwiches__________ we can have a snack on the way.
+
+59. I’ve made some sandwiches __________ we are hungry on the way.
+
+60. It was __________ a beautiful meteor storm __________ we watched it all night.
+
+61. The meteor storm was __________ beautiful __________ we watched it all night.
+
+62. Samuel wanted to become a lawyer __________ it was the wish of his parents.
+
+63. They left Dawson City __________ they had come. (quick)
+
+64. Strange __________ it may seem, I like to smell the odor of my toenails.
+
+65. Morty is __________ a good man __________ it’s hard to believe that he still doesn’t have a girlfriend.
+
+66. The teen suicide rate increased by more than 50 percent, __________ did the number of teens with clinical—level depression.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G103】状从倒装丨中级倒装
+一、概念题
+
+经典倒装：
+
+在Morty老师的体系里，经典倒装指的是把1.__________介词/副词或2.__________介词/副词提前所诱发的一种倒装形式。在状语从句里，我们可以把时间状语从句里面的3.__________，4.__________，或5.__________提到句首，都可以诱发句子的6.__________倒装，因为这几个都是7.__________副词
+
+结果状语从句的倒装：
+
+把8.__________或9.__________连同它们所修饰的词一起提到句首，诱发句子的10.__________倒装
+
+让步状语从句的倒装：
+
+把11.__________或12.__________提到句首，诱发句子的13.__________倒装
+
+二、倒装下面的句子
+
+14. I realized how much I expected to see her each morning only after she was seen no more.
+
+15. I have never seen such a stupid man before.
+
+16. He cared little about his own health though he was very ill.
+
+17. John couldn't go to school until his father was out of prison.
+
+18. He rushed out, with a stick in his hand.
+
+19. He is such a stupid man that I don’t want to see him any more.
+
+三、选择题
+
+20. No sooner __________ asleep than she heard a knock at the door.
+
+A. she had fallen
+B. had she fallen
+C. she had fell
+D. had she fell
+
+21. Only when you realize the importance of foreign languages __________ them well.
+
+A. you can learn
+B. can you learn
+C. you learned
+D. did you learn
+
+22. Look, __________.
+
+A. here the bus comes
+B. here is the bus coming
+C. here comes the bus
+D. here the bus is coming
+
+23. So sudden __________ that the enemy had no time to escape.
+
+A. did the attack
+
+B. the attack did
+
+C. was the attack
+
+D. the attack was
+
+24. Unsatisfied __________ with the payment, he took the job just to get some work experience.
+
+A. though was he
+
+B. though he was
+
+C. he was though
+
+D. was he though
+
+25. ____________________ that Marie was able to set up new branches elsewhere.
+
+A. So successful her business was
+
+B. So successful was her business
+
+C. So her business was successful
+
+D. So was her successful business
+
+26. ----Did Linda Litzke see the traffic accident?
+
+----No, no sooner __________ than it happened.
+
+A. had she gone
+
+B. she had gone
+
+C. has she gone
+
+D. she has gone
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G104-106】状语从句初级丨中级丨高级练习
+【G104】状语从句初级练习题
+
+1. He is a shy man, _______he is not afraid of anything or anyone.
+
+A. so           B. but           C. or         D. as
+
+2.Cathy had quit her job when her son was born _______ she could stay home and raise her family.
+
+A.now that           B. as if          C. only if           D. so that
+
+3.I don’t really like the author,_______ I have to admit his books are very exciting.
+
+A. although           B. unless       C. until         D. once
+
+4.It was the middle of the night _______ my father woke me up and told me to watch the football game.
+
+A. that         B.  as          C. which           D. when
+
+5._______ the forest park is far away, a lot of tourists visit it every year.
+
+A. As           B. When        C. Even though        D. In case
+
+6.It's not easy to change habits, ______ with awareness and self-control, it is possible.
+
+A. for           B. or            C. but            D. so
+
+7.Don’t turn off the computer before closing all programs_______ you could have problems
+
+A. or           B. and           C. but         D. so
+
+8.Read this story, ________ you will realize that not everything can be bought with money.
+
+A. or           B. and            C. but            D. so
+
+9.I was glad to meet Jenny again, _______I didn't want to spend all day with her.
+
+A. but        B. and          C. so          D. or
+
+10.It’s much easier to make friends _______ you have similar interests.
+
+A. unless           B.  when        C. even though      D. so that
+
+11.He was so busy. He cannot afford enough time with his son _______ he wants to.
+
+A. even if           B. as if           C. because         D. before
+
+12. My parents don’t mind what job I do _________ I am happy.
+
+A. even though          B. as soon as         C. as long as         D. as though
+
+13. It just isn’t fair _______I was working as a waiter last month, my friends were lying on the beach.
+
+A. whenever      B. though          C. for       D. while
+
+14. She had just finished her homework _______her mother asked her to practice playing the piano yesterday.
+
+A. when            B. while            C. after             D. since
+
+15. You may use the room as you like _______ you clean it up afterwards.
+
+A. so far as         B. so long as       C. in case          D. even if
+
+16. — Shall we have our picnic tomorrow?
+
+— ______it doesn’t rain. 
+
+A. Until       B. While        C. Once         D. If
+
+【G105】状语从句中级练习题
+
+1. ______ the police thought he was the most likely one, since they had no exact proof about it, they could not arrest him.
+
+A. Although              B. As long as               C. If only              D. As soon as
+
+2.— I wonder how much you charge for your services.
+
+— The first two are free ________ the third costs $30.
+
+A. while           B. until             C. when           D. before
+
+3. You can’t borrow books from the school library _______ you get your student card.
+
+A. before          B. if                 C. while               D. as
+
+4. Owen wouldn’t eat anything _______ he cooked it himself.
+
+A. until            B. since             C. unless             D. while
+
+5. Just use this room for the time being, and we’ll offer you a larger one _______it becomes available.
+
+A. as soon as           B. unless         C. as far as         D. until
+
+6. _______they decide which college to go to, students should research the admission procedures.
+
+A. As           B. While        C. Until         D. Once
+
+7.There are some health problems that, when _______ in time, can become bigger ones later on.
+
+A. not treated                  B. not being treated   
+
+C. not to be treated          D. not have been treated
+
+8. The school rules state that no child shall be allowed out of the school during the day, ________ accompanied by an adult.
+
+A. once           B. when         C. if          D. unless
+
+9. John thinks it won’t be long _______ he is ready for his new job.
+
+A. when          B. after         C. before          D. since
+
+10. _______you may have, you should gather your courage to face the challenge.
+
+A. However a serious problem          B. What a serious problem
+
+C. However serious a problem           D. What serious a problem
+
+11. Today, we will begin _______we stopped yesterday so that no point will be left out.
+
+A. when           B. where          C. how           D. what
+
+12.Hot _______the night air was, we slept deeply because we were so tired after the long journey.
+
+A. although           B. as   C. while  D. however
+
+13.To show our respect, we usually have to take our gloves off _______ we are to shake hands with.
+
+A.whichever           B.whenever       C.whoever        D.wherever
+
+14. Jack wasn’t saying anything, but the teacher smiled at him _______ he had done something very clever.
+
+A .as if           B. in case         C. while           D. though
+
+15._______ hard you try, it is difficult to lose weight without cutting down the amount you eat.
+
+A. However          B. Whatever         C. Whichever         D. Whenever
+
+【G106】状语从句高级练习
+
+1.________ unemployment and crime are high, it can be assumed that the latter is due to the former.
+
+A. Before            B. Where                C. Unless            D. Until
+
+2. All the dishes in this menu, ________ otherwise stated, will serve two to three people.
+
+A. as          B. if            C. though           D. unless 
+
+3. He had his camera ready ________ he saw something that would make a good picture.
+
+A. even if        B. if only       C. in case       D. so that
+
+4. The meaning of the word "nice'' changed a few times _______ it finally came to include the sense "pleasant."
+
+A. before         B. after      C. since     D. while
+
+5.Half an hour later, Lucy still couldn’t get a taxi ________ the bus had dropped her.
+
+A. until        B. when        C. although       D. where
+
+6.After the war, a new school building was put up ________ there had once been a theatre.
+
+7.I travel to the Binhai New Area by light railway every day, ________ do many businessmen who live in downtown Tianjin.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G107-109】从句综合练习1-3
+G107从句综合1（练习）
+
+Mary is no longer the girl 1. ________ she used to be.
+
+Mary is no longer 2.________ she used to be.
+
+Chengdu is no longer the city 3.________ it was ten years ago.
+
+Chengdu is no longer 4.________ it was ten years ago.
+
+Is this the museum 5.________ I visited last week?
+
+Is this museum 6.________ I visited last week?
+
+Is this the research center 7.________ you visited the modern equipment last year?
+
+Is this research center 8.________ you visited the modern equipment last year?
+
+G108从句综合2（练习）
+
+All 1.________ is needed is a supply of oil.
+
+2.________ is needed is a supply of oil.
+
+Everything 3.________ he said at the meeting astonished everybody present.
+
+4.________ he said at the meeting astonished everybody present.
+
+Last night I dreamed a dream 5.________ I passed the entrance examination.
+
+The dream 6.________ I dreamed last night was very funny.
+
+The promise 7.________ you will love me forever sounds nice.
+
+The promise 8.________ you made last year has gone with the wind.
+
+Was it during the Second World War 9.________ he died?
+
+It was the hour 10.________ the place was full of job-hunters.
+
+It was at the theater 11.________ Lincoln was murdered.
+
+It was the theater 12.________ Lincoln was murdered.
+
+G109从句综合3（练习）
+
+Make a mark 1.________ you have any questions.
+
+Make a mark at the place 2.________ you have any questions.
+
+We shall go 3.________ working conditions are difficult.
+
+We shall go to the place 4.________ working conditions are difficult.
+
+The article is written in such easy English 5.________ all of us can read it.
+
+The article is written in such easy English 6.________ all of us can read.
+
+I have never seen such a clever man 7.________ he.
+
+He made such an excellent speech 8.________ everyone respected him.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G110-111】从句综合练习（4-5）
+G110从句综合4（练习）
+
+He succeeded in the exam, 1.________ made his parents happy.
+
+Tom’s mother kept telling him that he should work harder, but 2.________ didn’t help.
+
+Last night I took a taxi, and 3.________ took me home.
+
+Last night I took a taxi, 4.________ took me home.
+
+5.________ is known to us all is that the earth goes around the sun.
+
+6.________ is known to us all that the earth goes around the sun.
+
+7.________ is known to us all, the earth goes around sun.
+
+G111从句综合5（练习）
+
+第一组
+
+1. Is this the factory ________ you worked three years ago?
+
+2. Is this factory ________ you worked three years ago?
+
+3. This is the factory ________ we visited last year.
+
+4. This is the factory ________ my father is working at.
+
+第二组
+
+5. We still remember the first film, ________ was about a woman doctor.
+
+6. We still remember the first film ________ was about a woman doctor.
+
+第三组
+
+7.Was it on October 1,1949 ________ the People’s Republic of China was founded?
+
+8.Was it October 1,1949 ________ the People’s Republic of China was founded?
+
+第四组
+
+9. ________ hard he works, he won’t succeed.
+
+10. Hard ________ he works, he won’t succeed.
+
+11. ________ he works hard, he won’t succeed.
+
+12. ________ his hard work, he won’t succeed.
+
+13. He works hard; he won’t succeed, ________.
+
+第五组
+
+14. The reason he has been such a success is ________ he never gives up.
+
+15. The reason ______ I burst into tears is that I don’t want to part from my mother.
+
+16. The reason ________ he told us sounds reasonable.
+
+第六组
+
+17. It is at five o’clock ________ we’ll meet again.
+
+18. It was five o’clock ________ we left for Shanghai.
+
+19. It is five hours ________ he left.
+
+20. It will be five hours________ we meet again.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+G112一般现在时丨一般过去时丨一般将来时
+一、概念题
+
+请在下面空白处用图形表现出一般现在时，一般过去时和一般将来时
+
+一般现在时的范围可以涵盖 1.______________, 2.______________和3.______________，它是表示经常性，一般性的情况，规律，不随时间的改变而改变；一般过去时表示动作单纯发生在4.______________；一般将来时表示动作单纯发生在5.______________
+
+一般现在时谓语抽象成6.______________或7.______________
+
+一般过去时谓语抽象成8.______________
+
+一般将来时谓语一般抽象成9.______________
+
+一般过去时通常伴随有10.______________的时间状语
+
+一般将来时通常伴随有11.______________的时间状语
+
+一般现在时可能12.______________伴随有时间状语
+
+在Morty老师的体系里，时态被分为了13.______________上的时态和14.______________上的时态
+
+比如主将从现，中的“从现”，就是形式上是15.______________时，意思上就表达的是16.______________时
+
+比如客观真理，科学事实。形式上应该用17.______________时
+
+比如时刻表，即便表达将来的时刻表，形式上也应该用18.______________时
+
+比如祈使句，形式上应该用19.______________时，而意思上天然表20.______________
+
+我们在意思上表达将来有很多方法，可能性从低到高依次是21.______________，22.______________，23.______________，24.______________
+
+情态动词+do，既可以表25.______________，也可以表26.______________
+
+二、按要求回答问题
+
+I will go to the shopping center tomorrow unless it rains.
+
+这个句子的主句部分是27.____________________________
+
+这个句子的从句部分是28.____________________________
+
+这个句子的主句部分的时态是29.______________时，表达的是30.______________（过去/现在/将来）
+
+这个句子的从句部分的时态是31.______________时，表达的是32.______________（过去/现在/将来）
+
+将这个句子改成间接引语，主语是she
+
+33.________________________________________________________
+
+这时，原句中的will go变成了34.______________，即从35.______________时变成了36.______________时，表达的意思也从37.______________变成了38.______________；另外，原句中的rains变成了39.______________，即从40.______________时变成了41.______________时，表达的意思也从一般42.______________表一般43.______________，相应地变成了一般44.______________表45.______________
+
+三、选择题
+
+46. Remember to send me a photo of us next time you ______ to me.
+
+A. are writing   B. will write    C. has written   D. write
+
+47. Physics _____ much harder than English, I think.
+
+A.     is    B. are   C. was    D. were
+
+48. Don't worry. The hard work that you do now ______ later in life.
+
+A. will be repaidB. was being repaid    C. has been repaid     D. was repaid
+
+49.--Kevin, you look worried. Anything wrong?
+
+--Well, I ______ a test and I’m waiting for the result.
+
+A. will takeB. took        C. had taken      D. take
+
+50. Our friendship ______ quickly over the weeks that followed.
+
+A. had developedB. was developing     C. would develop          D. developed
+
+51.Hurry up！Mark and Carl ______ us.
+A. expect     B. are expecting     C. have expected    D.  will expect
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G113】进行时+错位叠加法
+教学部分出现的练习题：
+
+The last time I ______________ to the cinema was two years ago. (go)
+
+If there is any change to the plan, I ______________ you as soon as possible. (tell)
+
+Yesterday evening, I ______________ along the street when I suddenly met my maths teacher. (walk)
+
+Look! The boys ______________ football on the playground. (play)
+
+Daniel’s family ______________ their holiday in Huangshan this time next week. (enjoy)
+
+Morty ______________ good English. (speak)
+
+
+
+【练习】
+
+一、概念题
+
+请在下面空白处用图形表现出现在进行时，过去进行时和将来将来时
+
+
+
+
+
+现在进行时一般抽象成1.______________，表示2.______________发生的动作或者3.______________发生的动作
+
+过去进行时一般抽象成4.______________，表示过去某个5.______________发生的动作或者过去6.______________发生的动作
+
+将来进行时一般抽象成7.______________，表示将来某个8.______________发生的动作或者将来9.______________发生的动作
+
+另外现在进行时还可以表近段时间10.______________的动作，表可能性比较11.______________的一般12.______________的动作，或者表达说话者强烈的13.______________
+
+同样的道理，过去进行时也可以表过去某段时间14.______________的动作，表可能性比较大的过去15.______________的动作，或者表达说话者过去强烈的16.______________
+
+错位叠加法：
+
+错位叠加法是前一种时态的抽象公式的17.______________叠加后一种时态的抽象公式的18.______________
+
+如将来进行时我们可以把它看作是19.______________和20.______________的叠加。一般将来时的抽象公式是21.______________，那么它的首项是22.______________，它的末项是23.______________；进行时的抽象公式是24.______________，那么它的首项是25.______________，它的末项是26.______________；因此我们得出将来进行时的抽象公式是27.______________
+
+再比如过去完成进行时，我们可以把它看作是28.______________，29.______________和30.______________的叠加。一般过去时的抽象公式是31.______________，它的首项是32.______________，它的末项是33.______________；完成时的抽象公式是34.______________，它的首项是35.______________，它的末项是36.______________；进行时的抽象公式是37.______________，它的首项是38.______________，它的末项是39.______________；因此根据错位叠加法，40.______________和41.______________叠加变成42.______________，43.______________和44.______________再叠加变成45.______________，于是我们最终得出过去完成进行时的抽象公式是46.______________
+
+二、选择题
+
+47. He _________ at the meeting, but his heart attack prevented him.
+
+A. will speak B. is going to speak
+
+C. had to speak      D. was going to speak
+
+48. I can guess you were in a hurry. You _________ your sweater inside out.
+
+A. had worn B. wore   C. were wearing   D. are wearing
+
+49. The traffic in our city is already good and it _________ even better.
+
+A. gets B. got   C. has got  D. is getting
+
+50. I _________ with some friends until I find a flat.
+
+A. am living B. live   C. have lived   D. will have lived
+
+51. You _________ television. Why not do something more active?
+
+A. always watch B. are always watching
+
+C. have always watched D. have always been watching
+
+52. Food supplies in this area _________. We must act immediately before there’s left.
+
+A. have run outB. are running out    C. have been run out   D. are being run out
+
+53. --Did you catch what I said?
+
+--Sorry. I _________ a text message just now.
+
+A. had answering B. have answered    C. would answer    D. was answering
+
+54. They are living with their parents for the moment because their own house _________.
+
+A. is being rebuilt B. has been rebuilt      C. is rebuilt      D. has rebuilt
+
+55. —Can I call you back at two o’clock this afternoon?
+
+—I’m sorry, but by then I _________ to Beijing. How about five?
+
+A. flyB. will fly     C. will be flying      D. am flying
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G114】万恶之源：现在完成时
+一、概念题
+
+请在下面空白处用图形表现出现在完成时
+
+现在完成时的公式抽象成1.______________
+
+现在完成时的用法Morty老师归纳为两个：一是2.______________，即表达3.______________的动作对4.______________的影响；二是5.______________，即表达一个动作6.______________在过去，一直持续到7.______________，并对8.______________造成影响
+
+现在完成时的标志词有：for, 9.______________, already, 10.______________, recently, 11.______________, 12.______________等
+
+补充讲解：
+
+一般过去对现在的影响VS现在完成时对现在的影响
+
+二、选择题
+
+13. I thought I _______ the door, but it is still open.
+
+A. had closed B. was closing    C. have closed    D. would close
+
+14. You don't need to describe her. I _______ her several times.
+
+A. had met   B. have met    C. met    D. meet
+
+15. ---I'm sorry to keep you waiting.
+
+---Oh, not at all. I _______ here only a few minutes.
+
+A. have been B. had been     C. was     D. will be
+
+16. Food supplies in the flood-stricken area _______. We must find new supplies.
+
+A. have run out  B. are running out     C. have been run out     D. are being run out
+
+17. ---Did you ask Sophia for help?
+
+---I _______ need to ---I managed perfectly well on my own.
+
+A. wouldn’t   B. don’t    C. didn't    D. won't
+
+18. “Life is like walking in the snow”, Granny used to say, “because every step_______”
+
+A. has shownB. is showing    C. shows            D. showed
+
+19. Shakespeare’s play Hamlet _______ into at least ten different films over the past years.
+A. had been made    B. was made    C. has been made    D. would be made
+
+20. ---Have you heard about the recent election？
+   ---Sure, it ________ the only thing on the news for the last three days.
+   A. would be     B.is     C. has been      D. will be
+   
+---------------------------------------------------------------------------------------------------------------------------------------
+【G115】过去完成时丨将来完成时
+概念题
+
+请在下面空白处用图形表现出过去完成时和将来完成时
+
+
+
+
+
+过去完成时的公式抽象成1.______________，它表达两种意思，一是表达相对2.______________过去3.______________的动作对相对4.______________过去的时间5.______________造成的影响；二是表达相对6.______________过去7.______________的动作一直持续到相对8.______________过去的时间9.______________并对其产生影响
+
+将来完成时的公式抽象成10.______________，它表达两种意思，一是表达将来的某个时间11.______________之12.______________的动作对将来的某个时间13.______________的影响；二是表达将来的某个时间14.______________之15.______________的动作一直持续到将来的某个时间16.______________并对其产生影响
+
+现在完成时可以不需要17.______________，但过去完成时和将来完成时必须要有18.______________
+
+在Morty老师眼里，过去的过去依然是19.______________
+
+二、填空题
+
+---How about watching a movie tonight?
+
+---Sorry, 20.______________ time. (have)
+
+---How about watching Better Call Saulwith me tonight?
+
+---Sorry, I 21.______________ it. (see)
+
+---How about watching Better Call Saulwith me tonight?
+
+---Sorry, I 22.______________ it the other day. (see)
+
+I 23.______________ in Chengdu for 15 years. (live)
+
+I 24.______________ in Chengdu for 15 years when I ______________ my own house last year. (live, buy)
+
+I 25.______________ in Chengdu for 15 years when I can finally ______________ into my own house. (live, move)
+
+三、选择题
+
+26. ---Oh no! We're too late. The train ________.
+
+---That’s OK. We’ll catch the next train toLondon.
+A. was leaving  B. had left     C. has left    D. has been leaving
+
+27. Bob called to tell his mother that he couldn't enter the house, for he ________ his key at school.
+A. had left   B. would leave   C. was leaving    D. has left
+
+28. The school board is made up of parents who ________ to make decisions about school affairs.
+A. had been elected    B. had elected    C. have been elected     D. have elected
+
+29. When I first met Bryan I didn't like him，but I ________ my mind. 
+A. have changed       B. change      C. had changed     D. would change 
+
+30. The twins，who ________ their homework，were allowed to play badminton on the playground.
+
+A. will finish B. finish      C. have finished     D. had finished
+
+31. ---Peter, do you know who ________ my dictionary？
+
+---Sorry, I don't know. I didn’t do it.
+
+A. has taken away B. was taking away     C. had taken away    D. is taking away
+
+32. By the time you visit my house, I ________ my new novel.
+
+A. will finish B. will have finished   C. have finished   D. finished
+
+33. I won’t leave the office until I ________ my work.
+
+A. finishB. have finished   C. will have finished   D. will finish
+
+34. The reports went missing in 2012 and nobody ________ them since.
+
+A. sees B. saw       C. has seen       D. had seen  
+
+35. ---Haven’t seen you for ages！Where have you been?
+
+---I went to Ningxia and ________ there for one year, teaching as a volunteer.
+
+A. stayed B. stay    C. had stayed    D. am staying
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G116】现在丨过去完成进行时丨过去将来时
+一、概念题
+
+请在下面空白处用图形表现出现在完成进行时，过去完成进行时，将来完成进行时和过去将来时
+
+
+
+
+
+现在完成进行时的公式抽象成1.______________，它表示动作从2.______________开始，一直持续到3.______________，并且还会持续下去，它是现在完成时里面Morty总结的4.______________这种情况的延伸。在Morty老师眼里，现在完成进行时相较于现在完成时会着重强调两点：第一，5.______________，第二, 6.______________
+
+过去完成进行时的公式抽象成7.______________，它表示动作从8.______________开始，一直持续到9.______________的时间标志，并且还会持续下去
+
+将来完成进行时的公式抽象成10.______________，它表示动作从11.______________开始，一直持续到12.______________的时间标志，并且还会持续下去
+
+过去将来时的公式抽象成13.______________，它表示从14.______________看将会发生的事情。正如形式上的现在进行可以表15.______________，形式上的过去16.______________也可以表过去17.______________
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G117】完成时难题（上）
+一、概念题
+
+1.______________ 表示去过某地已经回来了
+
+2.______________ 表示在某个地方待了某段时间了
+
+3.______________ 表示去了某地还没回来
+
+Morty老师一再强调：“借古讽今”和“从古至今”里面的“古”是指动作4.______________ 在过去，理解这一点对理解这一节课或者说整个完成时都是至关重要的
+
+如果一个瞬间/短暂/非延续性动词结束在过去某一时间点，那么说明这个动作5.______________和6.______________都在这一瞬间，即这个时间点上；如果一个延续性动词结束在过去某一时间点，那么说明这个动作开始在这个时间点之7.______________，即这个延续性动词一定要持续一段时间，因为要持续一段时间的动词才能叫延续性动词
+
+二、再讲“抽烟十年”与“戒烟十年”的问题（没搞懂的同学务必认真看下这一段）
+
+三、翻译
+
+我已经不需要你了。
+
+8. __________________________________________
+
+我已经走出来了。
+
+9. __________________________________________
+
+我毕业已经十年了。（用it’s…since句型）
+
+10. __________________________________________
+
+我学英语已经十年了。（用it’s…since句型）
+
+11. __________________________________________
+
+我已经十年没学过英语了。（用it’s…since句型）
+
+12. __________________________________________
+
+据我当时学英语已经十年了。（用it’s…since句型）
+
+13. __________________________________________
+
+我已经有十年的英语学习经历了。（用it’s…since句型）
+
+14. __________________________________________
+
+这种症状（在我身上）已经有十年了。（have）
+
+15. __________________________________________
+
+这种症状（在我身上）已经消失十年了。（have）
+
+16. __________________________________________
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G118】完成时难题（下）
+ 一、概念题
+
+在现在完成时中，如果“借古讽今”的动词是1.______________动词，在意思向“从古至今”转变的过程中，我们要注意把2.______________动词转成3.______________动词
+
+在现在完成时的否定和疑问中，already要相应地转变成4.______________
+
+二、关于“借古讽今”动词的延续与非延续问题
+
+三、把下列非延续性动词转换成延续性动词
+
+borrow：5.______________
+
+buy: 6.______________
+
+become: 7.______________
+
+die: 8.______________
+
+leave: 9.______________
+
+begin: 10.______________
+
+get married: 11.______________
+
+四、翻译题
+
+我们是在上个月Sam的婚礼上成为朋友的。
+
+12. __________________________________________
+
+我们已经做了一个月的朋友了。
+
+13. __________________________________________
+
+他已经离开了。
+
+14. __________________________________________
+
+他是早上八点离开的。
+
+15. __________________________________________
+
+他已经走了好几个小时了。
+
+16. __________________________________________
+
+他要走了。
+
+17. __________________________________________
+
+他正要走的时候电话响了。
+
+18. __________________________________________
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G120】被动语态（上）
+一、填空题
+
+一般现在被动公式：1.______________
+
+一般过去被动公式：2.______________
+
+一般将来被动公式：3.______________
+
+现在进行被动公式：4.______________
+
+过去进行被动公式：5.______________
+
+将来进行被动公式：6.______________
+
+现在完成被动公式：7.______________
+
+过去完成被动公式：8.______________
+
+将来完成被动公式：9.______________
+
+过去将来被动公式：10.______________
+
+二、错位叠加练习
+
+过去将来完成被动公式：11.______________
+
+过去将来完成进行公式：12.______________
+
+过去将来完成进行被动公式：13.______________
+
+现在完成进行被动公式：14.______________
+
+三、选择题
+
+15. The number of deaths from heart disease will be reduced greatly if people __________ to eat more fruit and vegetables.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G121】被动语态（下）
+教学里的练习题
+
+We clean our classroom every day.
+
+Someone stole my bike yesterday.
+
+Tokyo will hold The Olympic Games in 2021.
+
+My uncle is repairing my bike.
+
+My uncle was repairing my bike when I arrived t here.
+
+They have translated this book into many languages.
+
+The students had cleaned the classroom before the teacher came.
+
+They will have built a school by the end of next year.
+
+The workers told me that they would mend the car as soon as possible.
+
+
+
+【练习】
+
+  一、概念题
+
+只有1.______________才能变成被动语态形式，2.______________和3.______________是没有被动语态的
+
+Morty老师经典技巧回顾：被动即4.______________，5.______________的被动除外
+
+常见的没有被动的词有：6. break________, 7. take________, 8. ________of, 9. ________, 10. take________ in
+
+常见的可以主动表被动的词有：11.______________, 12.______________, 13.______________
+
+二、翻译题
+
+你的头发该剪了。
+
+14. __________________________________________
+
+这座古建筑需要修缮了。
+
+15. __________________________________________
+
+这里发生的一切和我没有关系。
+
+16. __________________________________________
+
+已经涨价了。（rise）
+
+17. __________________________________________
+
+已经涨价了。（raise）
+
+18. __________________________________________
+
+请坐（sit）
+
+19. __________________________________________
+
+请坐（seat）
+
+20. __________________________________________
+
+请大家自己入座
+
+21. __________________________________________
+
+这些衣服洗起来很容易。
+
+22. __________________________________________
+
+这笔很好写。
+
+23. __________________________________________
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G122-124】时态语态专项练习1-3
+从这一课G122开始到G127都是时态/语态专项练习题，所以同学们先做练习再看视频教学
+
+G122 时态语态练习1
+
+1.Planing so far ahead ______ no sense—so many things will have changed by next year.
+
+A.made   B.is making  C.makes  D.has made
+
+2.If you don't like the drink you ______ just leave it and try a different one.
+
+A. ordered   B. are ordering  C. will order  D. had ordered
+
+3.Tom ______ in the library every night over the last three months.
+
+A. works  B. worked  C. has been working  D. had been working
+
+4.——Bob has gone to California.
+
+——Oh, can you tell me when he ______ ?
+
+A. has left  B. left  C. is leaving  D. would leave
+
+5.When I got on the bus, I_____I had left my wallet at home.
+
+A. was realizing B. realized C. have realized  D. would realize
+
+6.The teacher, with 6 girls and 8 boys of her class, ________ visiting a museum when the earthquake struck.
+
+A. was   B. were     C. had been     D. would be
+
+7.—You were out when I dropped in at your house.
+
+—Oh, I ________ for a friend from England at the airport.
+
+A. was waiting      B. had waited
+
+C. am waiting        D. has waited
+
+8.Because the shop ________ , all the T-shirts are sold at half price.
+
+A. has closed down  B. closed down
+
+C. is closing down    D. had closed down
+
+9.A lot of people often forget that oral exams ______ to test our communicative ability.
+
+A. design B. are designed  C. are designing  D. are being designed
+
+10.——That must have been a long trip.
+
+——Yeah, it ______ us a whole week to get there.
+
+A.     takes  B. has taken C. took  D. was taking
+G123 时态语态练习2
+
+11.Experiments of this kind ______ in both the U.S. and Europe well before the Second World War.
+
+A. have conducted B. have been conducted  C. had conducted  D. had been conducted
+
+12.When Alice came to, she did not know how long she ______ there.
+
+A. had been lying B. has been lying  C. was lying D. has lain
+
+13.I wasn’t sure if he was really interested or if he ______ polite.
+
+A. was just being B. will just be  C. had just been  D. would just be
+
+14.She was surprised to find the fridge empty; the child _____ everything!
+
+A. had been eatingB. had eaten C. have eaten  D. have been eating
+
+15. －Sorry to have interrupted you. Please go on.
+
+－Where was I?
+
+－You ________ you didn’t like your father’s job.
+
+A. had said       B. said
+
+C. were saying  D. had been saying
+
+16. I ________ ping-pong quite well, but I haven’t had time to play since the new year.
+
+A. will play  B. have played        C. played        D. play
+
+17. A short time before she ________ , the old lady ________ a will, leaving all her money to her brother.
+
+A. died; has written   B. has died; wrote              
+
+C. had died; wrote     D. died; had written
+
+18. — Have you ever worked with a tape recorder?
+
+— I ________ it a lot when I was studying French in school.
+
+A. used    B. was used    C. have used    D. had used
+
+19.—Which flight ________ ?
+
+—I want to catch the 13:00.
+
+A. you are to catch    B. are you catching
+
+C. do you catch         D. have you caught
+
+20.—Did you find the missing couple in the mountain yesterday?
+
+—No, but we ________ to get in touch with them ever since.
+
+A. have tried  B. have been trying
+
+C. had tried   D. had been trying
+
+G124 时态语态练习3
+
+21. —Look! Someone has spilt coffee on the carpet.
+
+—Well, it ________ me.
+
+A. isn’t   B. hasn’t been   C. hadn’t been    D. wasn’t
+
+22.On her next birthday, Ann ______ married for twenty years.
+
+A.is   B.has been  C.will be  D.will have been
+
+23. —Has Sam finished his homework today?
+
+—I have no idea. He ________ it this morning.
+
+A. did   B. has done     C. was doing     D. had don
+
+24. My mind wasn’t on what he was saying so I’m afraid I ________ half of it.
+
+A. was missing  B. had missed
+
+C. will miss       D. missed
+
+25. Let’s keep to the point or we ________ any decisions.
+
+A. will never reach  B. have never reached
+
+C. never reach         D. never reached
+
+26. The discussion ________ alive when an interesting topic was brought in.
+
+A. was coming  B. had come
+
+C. has come      D. came
+
+27. She ________ her hairstyle in her hometown before she came to Chongqing for a better job.
+
+A. would change    B. has changed
+
+C. changed           D. was changing
+
+28. —You haven’t said a word about my new coat, Brenda. Do you like it?
+
+—I’m sorry I ________ anything about it sooner. I certainly think it’s pretty on you.
+
+A. wasn’t saying    B. don’t say
+
+C. won’t say          D. didn’t say
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+【G125-127】时态语态专项练习4-6（中级语法完结）
+G125 时态语态练习4
+
+29. —Is this raincoat yours?
+
+—No, mine _______ there behind the door.
+
+A. is hanging B. has hung         C. hangs          D. hung
+
+30. It is said in the book that Thomas Edison (1847—1931) ________ the world-leading inventor for sixty years.
+
+A. would be B. has been
+
+C. had been D. was
+
+31. —I bought this shirt for 35 yuan yesterday.
+
+—It’s on sale today for only 29. You should have waited.
+
+—Oh, really? But how ________ I know?
+
+A. would B. can       C. did         D. do
+
+32. —Will you go now?
+
+—Not until I ________ my experiments.
+
+A. will finish B. have finished
+
+C. will have finished D. had finished
+
+33. I don’t understand how you got a ticket. I always ________ you ________ a careful driver.
+
+A. think; are B. am thinking; are
+
+C. thought; were D. think; were
+
+34. We ________ to go skiing tomorrow, but there’s no snow, so we’ll just stay home instead.
+
+A. are going B. were going
+
+C. will go D. would go
+
+35. —What place is it?
+
+—Haven’t you seen that we ________ back where we ________ ?
+
+A. were；had been               B. are；were     
+
+C. were；have been              D. are；had been
+
+G126 时态语态练习5：中考高考真题
+
+中考真题
+
+36. —Why are you standing here, Mrs. White?
+
+—I'm waiting for my son. He________ back from school.
+
+A. hasn't come B. won't come       C. doesn't come 
+
+37. —Hello, may I speak to Zhang Jun?
+
+—Oh, sorry! He _______ to Guiyang.
+
+A. has been B. has gone      C. went 
+
+38. My father _______ on business for two weeks. He'll return in three days.
+
+A. has been away B. left        C. has left 
+
+39. —Do you miss your parent far away?
+
+—Yes, very much. They _______ the hometown for over two years.
+
+A. left B. have left       C. were away from      D. have been away from 
+
+40. —Where is your father?
+
+—He______ Australia and he _____ Sydney for two weeks.
+
+A. has been to; has been in B. has gone to ; has been in
+
+C. has been in; has been to D. has gone to ; has been to 
+
+41. Ann is a nurse in our hospital. She______ here for ten years.
+
+A. works B. has worked       C. worked 
+
+42. —_______ you _______ Jeremy Shu-How Lin?
+
+—Yes. The once-nameless young man became a basketball hero suddenly. 
+
+A. Did; hear B. Do; listen to     C. Have; heard of     D. Have; listened to 
+
+43. —I called you this morning, but nobody answered it.
+
+—Oh, we _____ some running in the park.
+
+A. are doing B. were doing       C. have done      D. did 
+
+44. —Where is your brother?
+
+—He has gone to Beijing. He _____back in three days.
+
+A. will come B. comes        C. has come      D. came 
+
+45. —Is Jack in the classroom now?
+
+—No, he  _____   football on the playground.
+
+A. plays B. played        C. is playing       D. was playing 
+
+
+
+高考真题
+
+46. —Hi, I'm Peter. Are you new here? I haven't seen you around?
+
+—Hello, Peter. I'm Bob. I just _________ on Monday. 【2018·北京】
+
+ A. start B. have started    C. started    D. had started
+
+47. Susan had quit her well-paid job and _________ as a volunteer in the neighborhood when I visited her last year. 【2018·北京】
+
+A. is working    B. was working       C. has worked       D. had worked   
+
+48. China's high-speed railways _________ from 9,000 to 25,000 kilometers in the past few years. 【2018·北京】
+
+A. are growing B. have grown  C. will grow   D. had grown
+
+49. A rescue worker risked his life saving two tourists who _________ in the mountains for two days. 【2018·北京】
+
+A. are trapping       B. have been trapped    
+
+C. were trapping      D. had been trapped
+
+50. My washing machine ___________this week, so I have to wash my clothes by h【2018·天津】and.
+
+A. was repaired          B. is repaired
+
+C. is being repaired      D. has been repaired
+
+51.Hopefullyin 2025 we will no longer be e-mailing each other, for we _______ more
+
+convenient electronic communicationtools by then. 【2018·江苏】
+
+A. have developed          B. had developed
+
+C. willhave developed          D. developed
+
+52.I was sent to the village last month to see how the 
+
+development plan _______ in the past two years. 【2018·江苏】
+
+A. hadbeen carried out              B. would be carried out
+
+C. isbeing carried out               D. has been carried out
+
+53. I ________down to London when I suddenly found that I was on the wrong road. 【2017·天津卷】
+
+A. was driving B. have driven   C. would drive    D. drove
+
+54. He hurried home, never once looking back to see if he _______. 【2017·江苏卷】
+
+A. was being followed     B. was following      
+
+C. had been followed       D. followed
+
+55.He's been informed that he _______ for the scholarship because of his academic background. 【2017·江苏卷】
+
+A. hasn't qualified  B. hadn't qualified     C. doesn't qualify     . wasn't qualifying
+
+56.People______ better access to health care than they used to, and they're living longer as a result. 【2017·北京卷】
+
+A.will have       B. have       C. had       D. had had
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -1224,11 +3021,219 @@ Chandler: Oh 32.__________ forever! I used to go all over town listening to band
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 
