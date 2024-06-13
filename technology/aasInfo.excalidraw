@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 68,
-      "versionNonce": 425022223,
+      "version": 153,
+      "versionNonce": 1965418938,
       "index": "a0",
       "isDeleted": false,
       "id": "17NhQxS3ZPiZpV5bHLvjt",
@@ -16,8 +16,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 235,
-      "y": -22,
+      "x": 202.1428571428571,
+      "y": -304.85714285714283,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 136.328125,
@@ -27,7 +27,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713527153365,
+      "updated": 1718242765599,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -37,6 +37,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "T_SYS_STAFF\n\n",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -73,6 +74,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "角色和菜单关系:",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -109,6 +111,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "T_SYS_ROLE(id) -> T_SYS_ROLE_PERMISSION(role_id),T_SYS_ROLE_PERMISSION(permission_id) -> T_SYS_PERMISSION(id),T_SYS_PERMISSION(module_id) -> T_SYS_MODULE(id)",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -145,6 +148,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "角色和人关联表",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -181,6 +185,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "T_SYS_STAFF_INST_ROLE",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -217,12 +222,13 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "T_SYS_PERMISSION的PERM_CODE包含shiro.hasPermission或ShiroUtils.hasPermission校验的字符串",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
       "type": "text",
-      "version": 136,
-      "versionNonce": 16452847,
+      "version": 221,
+      "versionNonce": 1928635002,
       "index": "a8",
       "isDeleted": false,
       "id": "z0vOLb0kWIgOW9ez5jSiH",
@@ -232,8 +238,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 219.2751736111111,
-      "y": 48.47222222222217,
+      "x": 186.4180307539682,
+      "y": -234.38492063492066,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 418.90625,
@@ -243,7 +249,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713539466514,
+      "updated": 1718242765599,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -253,12 +259,13 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "T_SYS_INSTITUTION(机构表,同时也是部门表)",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
       "type": "text",
-      "version": 113,
-      "versionNonce": 1862899471,
+      "version": 245,
+      "versionNonce": 1848769402,
       "index": "a9",
       "isDeleted": false,
       "id": "d1Yno52lIiJHjHlkCXZr3",
@@ -268,33 +275,34 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 222.60850694444434,
-      "y": 108.25,
+      "x": 191.17993551587278,
+      "y": -174.60714285714283,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 507.8515625,
-      "height": 69,
+      "width": 614.6875,
+      "height": 230,
       "seed": 1042747538,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713539466514,
+      "updated": 1718242790905,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 2,
-      "text": "syss.t_sys_staff_inst  用户机构关联表\n   DEPT_ID,   科室、部门ID[对应t_sys_institution表id]\n   GROUP_DEPT_ID,   T_SYS_INSTITUTION一级科室ID",
+      "text": "syss.t_sys_staff_inst  用户机构关联表\n   DEPT_ID,   科室、部门ID[对应t_sys_institution表id]\n   GROUP_DEPT_ID,   T_SYS_INSTITUTION一级科室ID\n\nT_SYS_STAFF(ID)->T_SYS_STAFF_INST(STAFF_ID)\n\nT_SYS_STAFF_INST(INSTITUTION_ID)->T_SYS_INSTITUTION(ID)\n\nT_SYS_STAFF_INST(DEPT_ID)->T_SYS_INSTITUTION(ID)\n",
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "syss.t_sys_staff_inst  用户机构关联表\n   DEPT_ID,   科室、部门ID[对应t_sys_institution表id]\n   GROUP_DEPT_ID,   T_SYS_INSTITUTION一级科室ID",
+      "originalText": "syss.t_sys_staff_inst  用户机构关联表\n   DEPT_ID,   科室、部门ID[对应t_sys_institution表id]\n   GROUP_DEPT_ID,   T_SYS_INSTITUTION一级科室ID\n\nT_SYS_STAFF(ID)->T_SYS_STAFF_INST(STAFF_ID)\n\nT_SYS_STAFF_INST(INSTITUTION_ID)->T_SYS_INSTITUTION(ID)\n\nT_SYS_STAFF_INST(DEPT_ID)->T_SYS_INSTITUTION(ID)\n",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
       "type": "text",
-      "version": 471,
-      "versionNonce": 1258413359,
+      "version": 555,
+      "versionNonce": 603019238,
       "index": "aA",
       "isDeleted": false,
       "id": "O118KJpe0YrPR6rvqlhuq",
@@ -304,8 +312,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 212.94184027777783,
-      "y": 224.58333333333337,
+      "x": 180.08469742063494,
+      "y": 234.58333333333337,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 1966.23046875,
@@ -315,7 +323,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1713539466514,
+      "updated": 1718242760135,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -325,6 +333,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SQL:\nselect * from SecUser t where t.SecUserMainCode='0000004';\n\nselect SecUserMainCode,count(1) from SecUser GROUP BY SecUserMainCode having count(1)>2;\n\n\nselect t.SecUserName,t.SecUserCode,t.SecUserMainCode,t.SecUserIsdlt,dm.deptMasterName from SecUser t LEFT JOIN DeptMaster dm on t.deptMasterCode=dm.deptMasterCode where t.SecUserMainCode='0000004';\n\nselect * from DeptMaster;\n\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nselect * from T_SYS_STAFF t where t.NAME='韩忠';\n\n\nselect * from T_SYS_INSTITUTION t ;\n\nselect t.*,si.name from T_SYS_STAFF_INST t LEFT JOIN T_SYS_INSTITUTION si on t.INSTITUTION_ID=si.ID where t.STAFF_ID=66714;\n\nselect * from T_SYS_STAFF_INST where rownum<10000;\n\nselect * from T_SYS_INSTITUTION where id = 103769;\n\n-- T_SYS_INSTITUTION.INST_TYPE   类型-（码表：INST_TYPE）（集团，集团部门，省区，医院，科室）\nselect * from base.T_DCG_CODE_DICT t where t.type like '%inst_type%';\n",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -366,6 +375,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecObject(SecObjectName)",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -464,6 +474,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecObjectFunctionalities",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -558,6 +569,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "MenuItem",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -656,6 +668,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecRole",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -754,6 +767,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecFunctionalityRole",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -852,6 +866,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecUser",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -897,6 +912,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecUserRole",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1048,6 +1064,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "DeptMaster(部门表,科室)",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1142,6 +1159,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "OrgMaster(机构表[省区,医院])",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1231,6 +1249,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "MenuItem.MenuType\n   1-LinkItem\n   2-Menu",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1267,6 +1286,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "菜单表需要重建，再建立与角色，SecFunctionality的关系",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1303,6 +1323,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecFunctionality.SecFunctionalityType(功能类型)\n WWPSecFunctionalityTypes\n  1-Mode\n  2-Action\n  3-Tab\n  4-Object\n  5-Attribute",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1344,6 +1365,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "T_SYS_MODULE",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1385,6 +1407,7 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "新建菜单和MenuItem关联表(该表包含SecFunctionalityId字段)",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
@@ -1489,33 +1512,34 @@
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "SecFunctionality",
+      "autoResize": true,
       "lineHeight": 1.15
     },
     {
-      "id": "oauouA9ucOg8yAvEHummt",
       "type": "text",
-      "x": 946.9423828125005,
-      "y": 1243.2500000000002,
-      "width": 125.556640625,
-      "height": 46,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "version": 191,
+      "versionNonce": 1643853882,
+      "index": "af",
+      "isDeleted": false,
+      "id": "oauouA9ucOg8yAvEHummt",
       "fillStyle": "solid",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 0,
       "opacity": 100,
+      "angle": 0,
+      "x": 946.9423828125005,
+      "y": 1243.2500000000002,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 125.556640625,
+      "height": 46,
+      "seed": 1004488998,
       "groupIds": [
         "7UrVOIzqOUjxkdepS-NiP"
       ],
       "frameId": null,
-      "index": "af",
       "roundness": null,
-      "seed": 1004488998,
-      "version": 191,
-      "versionNonce": 1643853882,
-      "isDeleted": false,
       "boundElements": [
         {
           "id": "QcAEDhNsG8whRQLt_JQfH",
@@ -1525,13 +1549,14 @@
       "updated": 1713584035488,
       "link": null,
       "locked": false,
-      "text": "所有页面,按钮\n等资源的集合",
       "fontSize": 20,
       "fontFamily": 2,
+      "text": "所有页面,按钮\n等资源的集合",
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "所有页面,按钮\n等资源的集合",
+      "autoResize": true,
       "lineHeight": 1.15
     }
   ],
