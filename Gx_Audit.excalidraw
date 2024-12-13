@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 102,
-      "versionNonce": 1470044760,
+      "version": 103,
+      "versionNonce": 1557843885,
       "isDeleted": false,
       "id": "yhhSAHK8vIsukcTI7-XfN",
       "fillStyle": "hachure",
@@ -25,7 +25,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1677027989609,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -34,12 +34,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审计手册-Risk\n   RiskBussinessType-业务类别\n    select * from CodeMaster where CodeMasterType=\"RiskBussinessType\";\n"
+      "originalText": "审计手册-Risk\n   RiskBussinessType-业务类别\n    select * from CodeMaster where CodeMasterType=\"RiskBussinessType\";\n",
+      "index": "a0",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.2321428571428572
     },
     {
       "type": "text",
-      "version": 219,
-      "versionNonce": 1890397395,
+      "version": 220,
+      "versionNonce": 247270819,
       "isDeleted": false,
       "id": "WRAH6eUPS5P1XfFsc7KJa",
       "fillStyle": "hachure",
@@ -58,7 +62,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1676970026026,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -67,12 +71,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "自评手册-SelfRisk\n   SelfRiskBussinessType-业务板块\n    select * from CodeMaster where CodeMasterType='SelfEvaluationBussinessType' and CodeMasterIsDlt=0;"
+      "originalText": "自评手册-SelfRisk\n   SelfRiskBussinessType-业务板块\n    select * from CodeMaster where CodeMasterType='SelfEvaluationBussinessType' and CodeMasterIsDlt=0;",
+      "index": "a1",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.261904761904762
     },
     {
       "type": "text",
-      "version": 369,
-      "versionNonce": 116371453,
+      "version": 370,
+      "versionNonce": 295588365,
       "isDeleted": false,
       "id": "RKKPzwHZ-RQn-3QlFpGrQ",
       "fillStyle": "hachure",
@@ -93,7 +101,7 @@
       ],
       "roundness": null,
       "boundElements": [],
-      "updated": 1676970466177,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -102,12 +110,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审计记录主表-AuditRecord\n"
+      "originalText": "审计记录主表-AuditRecord\n",
+      "index": "a2",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.2321428571428572
     },
     {
       "type": "image",
-      "version": 587,
-      "versionNonce": 254097981,
+      "version": 588,
+      "versionNonce": 464609603,
       "isDeleted": false,
       "id": "LGse1U5p7NIazGMJ6vgqX",
       "fillStyle": "hachure",
@@ -128,7 +140,7 @@
       ],
       "roundness": null,
       "boundElements": [],
-      "updated": 1676970026027,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -136,12 +148,15 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "a3",
+      "frameId": null,
+      "crop": null
     },
     {
       "type": "rectangle",
-      "version": 243,
-      "versionNonce": 512665437,
+      "version": 244,
+      "versionNonce": 998410349,
       "isDeleted": false,
       "id": "KniewGK4ehXNUv5PlKEom",
       "fillStyle": "hachure",
@@ -164,14 +179,16 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1676970026027,
+      "updated": 1734074661009,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a4",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 180,
-      "versionNonce": 1419233523,
+      "version": 181,
+      "versionNonce": 437928163,
       "isDeleted": false,
       "id": "ROCzPXcoEN_g_54TFiy04",
       "fillStyle": "hachure",
@@ -192,7 +209,7 @@
       ],
       "roundness": null,
       "boundElements": [],
-      "updated": 1676970026027,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -201,12 +218,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "新增审计计划    待完成"
+      "originalText": "新增审计计划    待完成",
+      "index": "a5",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285714
     },
     {
       "type": "text",
-      "version": 152,
-      "versionNonce": 945533885,
+      "version": 153,
+      "versionNonce": 1548808909,
       "isDeleted": false,
       "id": "oHXJbuNJI1CZCxbJCpp1f",
       "fillStyle": "hachure",
@@ -230,7 +251,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676970026027,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -239,12 +260,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审批计划 - 同意\n\nDo approve"
+      "originalText": "审批计划 - 同意\n\nDo approve",
+      "index": "a6",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.2023809523809523
     },
     {
       "type": "text",
-      "version": 118,
-      "versionNonce": 1099445277,
+      "version": 119,
+      "versionNonce": 59124867,
       "isDeleted": false,
       "id": "KHi87bHM5CS-WGr2k-YLH",
       "fillStyle": "hachure",
@@ -276,7 +301,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676970026028,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -285,12 +310,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "//写Detail表-主审计计划\nDo 'WriteAuditRecordDetail'"
+      "originalText": "//写Detail表-主审计计划\nDo 'WriteAuditRecordDetail'",
+      "index": "a7",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.2321428571428572
     },
     {
       "type": "text",
-      "version": 155,
-      "versionNonce": 2126065853,
+      "version": 156,
+      "versionNonce": 10686765,
       "isDeleted": false,
       "id": "1hW1dO5odWlwOB5Rwmmkk",
       "fillStyle": "hachure",
@@ -318,7 +347,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676970045822,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -327,12 +356,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "//子审计计划审批通过\nDo 'WriteSubAuditRecord'"
+      "originalText": "//子审计计划审批通过\nDo 'WriteSubAuditRecord'",
+      "index": "a8",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.2321428571428572
     },
     {
       "type": "arrow",
-      "version": 278,
-      "versionNonce": 82110931,
+      "version": 279,
+      "versionNonce": 464757795,
       "isDeleted": false,
       "id": "Z47TX4b8tJ0lNj5-CPSU5",
       "fillStyle": "hachure",
@@ -353,7 +386,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676970026028,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -378,12 +411,14 @@
           200,
           1.83046073441011
         ]
-      ]
+      ],
+      "index": "a9",
+      "frameId": null
     },
     {
       "type": "arrow",
-      "version": 228,
-      "versionNonce": 1469419741,
+      "version": 229,
+      "versionNonce": 1709335437,
       "isDeleted": false,
       "id": "Mn4AXeO7z83US1xrBHU_I",
       "fillStyle": "hachure",
@@ -404,7 +439,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676970026028,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -429,12 +464,14 @@
           1.8987823289630796,
           397.9999999999998
         ]
-      ]
+      ],
+      "index": "aA",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 22,
-      "versionNonce": 1405709629,
+      "version": 23,
+      "versionNonce": 714155971,
       "isDeleted": false,
       "id": "V3ly3_nK57EnGpC-Ro5oj",
       "fillStyle": "hachure",
@@ -462,7 +499,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676970026028,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -471,12 +508,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "//写审计记录详情表\npSubAuditRecordApprove.Submit(,&SelectAuditRecordId,&SecuserCode)"
+      "originalText": "//写审计记录详情表\npSubAuditRecordApprove.Submit(,&SelectAuditRecordId,&SecuserCode)",
+      "index": "aB",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.2321428571428572
     },
     {
       "type": "arrow",
-      "version": 52,
-      "versionNonce": 968675603,
+      "version": 53,
+      "versionNonce": 1615358445,
       "isDeleted": false,
       "id": "VbRyPxPacLHoMcfHbCTHb",
       "fillStyle": "hachure",
@@ -497,7 +538,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676970026028,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -522,12 +563,14 @@
           332,
           2
         ]
-      ]
+      ],
+      "index": "aC",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 246,
-      "versionNonce": 414342771,
+      "version": 247,
+      "versionNonce": 1983723363,
       "isDeleted": false,
       "id": "D-QiPKTFH2aLzdB9uiBjT",
       "fillStyle": "hachure",
@@ -551,7 +594,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676970058832,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -560,12 +603,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "大部分审计类型都是循环Risk表，\n再插入AuditRecordDetail表\nfor each Risk\n        where RiskIsdlt = false\n        ............................\n        &BCAuditRecordDetail.Insert()\n        ............................              \nendfor"
+      "originalText": "大部分审计类型都是循环Risk表，\n再插入AuditRecordDetail表\nfor each Risk\n        where RiskIsdlt = false\n        ............................\n        &BCAuditRecordDetail.Insert()\n        ............................              \nendfor",
+      "index": "aD",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.1875
     },
     {
       "type": "arrow",
-      "version": 129,
-      "versionNonce": 845420563,
+      "version": 130,
+      "versionNonce": 14591053,
       "isDeleted": false,
       "id": "32vWUYUgQbGE-9zcZBdSa",
       "fillStyle": "hachure",
@@ -586,7 +633,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676970058832,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -611,12 +658,14 @@
           264,
           0.1443808466469818
         ]
-      ]
+      ],
+      "index": "aE",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 123,
-      "versionNonce": 1751226045,
+      "version": 124,
+      "versionNonce": 2097566467,
       "isDeleted": false,
       "id": "6ZXluCTY-YoH4VDA14T_o",
       "fillStyle": "hachure",
@@ -642,7 +691,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676970054586,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -651,12 +700,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "/*写子计划*/\n        for each AuditRecord\n                where AuditRecordIsdlt = false\n                where AuditRecordParentId=&SelectAuditRecordId\n                &subAuditRecordId=AuditRecordId\n                \n                &SubAuditRecord.Load(&subAuditRecordId)\n                ..................\n                        &SubAuditRecord.Save()\n                        if &SubAuditRecord.Success()\n                                commit\n                                //写子计划详情表\n                                &SecuserCode=pGetCurrentUserCode.Udp()\n                                //                        pWriteDetail.Submit(,&subAuditRecordId,&SecuserCode)\n                                pSubAuditRecordApprove.submit(,&subAuditRecordId,&SecuserCode)\n                ....................\n        \n        endfor"
+      "originalText": "/*写子计划*/\n        for each AuditRecord\n                where AuditRecordIsdlt = false\n                where AuditRecordParentId=&SelectAuditRecordId\n                &subAuditRecordId=AuditRecordId\n                \n                &SubAuditRecord.Load(&subAuditRecordId)\n                ..................\n                        &SubAuditRecord.Save()\n                        if &SubAuditRecord.Success()\n                                commit\n                                //写子计划详情表\n                                &SecuserCode=pGetCurrentUserCode.Udp()\n                                //                        pWriteDetail.Submit(,&subAuditRecordId,&SecuserCode)\n                                pSubAuditRecordApprove.submit(,&subAuditRecordId,&SecuserCode)\n                ....................\n        \n        endfor",
+      "index": "aF",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.1626984126984128
     },
     {
       "type": "rectangle",
-      "version": 145,
-      "versionNonce": 1075221811,
+      "version": 146,
+      "versionNonce": 2071892653,
       "isDeleted": false,
       "id": "kwoH7vk4vcT0e7jKrnwL6",
       "fillStyle": "hachure",
@@ -679,14 +732,16 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1676970054587,
+      "updated": 1734074661009,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aG",
+      "frameId": null
     },
     {
       "type": "rectangle",
-      "version": 182,
-      "versionNonce": 1647233917,
+      "version": 183,
+      "versionNonce": 1869281955,
       "isDeleted": false,
       "id": "h7ER4w0InAHBK5MfD6bYH",
       "fillStyle": "hachure",
@@ -709,14 +764,16 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1676970054587,
+      "updated": 1734074661009,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aH",
+      "frameId": null
     },
     {
       "type": "arrow",
-      "version": 75,
-      "versionNonce": 1557772061,
+      "version": 76,
+      "versionNonce": 1288811789,
       "isDeleted": false,
       "id": "adop7DFu7cS6e2qEGz41l",
       "fillStyle": "hachure",
@@ -737,7 +794,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676970054587,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -762,12 +819,14 @@
           617.9999999999995,
           -3.1277573849273494
         ]
-      ]
+      ],
+      "index": "aI",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 136,
-      "versionNonce": 36498003,
+      "version": 137,
+      "versionNonce": 1780067907,
       "isDeleted": false,
       "id": "JlDqGJyW37c-ZFYp2LPdp",
       "fillStyle": "hachure",
@@ -788,7 +847,7 @@
       ],
       "roundness": null,
       "boundElements": [],
-      "updated": 1676970536199,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -797,12 +856,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审计记录明细-AuditRecordDetail\n\n\n"
+      "originalText": "审计记录明细-AuditRecordDetail\n\n\n",
+      "index": "aJ",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.1875
     },
     {
       "type": "image",
-      "version": 159,
-      "versionNonce": 858511453,
+      "version": 160,
+      "versionNonce": 542215021,
       "isDeleted": false,
       "id": "I_ImXmEIvDCtbU2sNrzAN",
       "fillStyle": "hachure",
@@ -823,7 +886,7 @@
       ],
       "roundness": null,
       "boundElements": [],
-      "updated": 1676970536199,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -831,12 +894,15 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "aK",
+      "frameId": null,
+      "crop": null
     },
     {
       "type": "text",
-      "version": 369,
-      "versionNonce": 1328393007,
+      "version": 370,
+      "versionNonce": 1878060515,
       "isDeleted": false,
       "id": "fYgtK56LoYqavzWX1za8Z",
       "fillStyle": "hachure",
@@ -864,7 +930,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676990740812,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -873,12 +939,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "com.audit.audithome"
+      "originalText": "com.audit.audithome",
+      "index": "aL",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.1428571428571428
     },
     {
       "type": "text",
-      "version": 307,
-      "versionNonce": 33065103,
+      "version": 308,
+      "versionNonce": 1984402893,
       "isDeleted": false,
       "id": "9zD0nWQ4gZxeFYBockix7",
       "fillStyle": "hachure",
@@ -906,7 +976,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676990889475,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -915,12 +985,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审计中-WCAuditUnderwayAll"
+      "originalText": "审计中-WCAuditUnderwayAll",
+      "index": "aM",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285714
     },
     {
       "type": "text",
-      "version": 232,
-      "versionNonce": 2028968225,
+      "version": 233,
+      "versionNonce": 603928963,
       "isDeleted": false,
       "id": "WY7Mv3roDrjjON6nwFCDp",
       "fillStyle": "hachure",
@@ -944,7 +1018,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676990873083,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -953,12 +1027,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "已审计-WCAuditFinishedAll"
+      "originalText": "已审计-WCAuditFinishedAll",
+      "index": "aN",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285714
     },
     {
       "type": "arrow",
-      "version": 824,
-      "versionNonce": 1018285519,
+      "version": 825,
+      "versionNonce": 164451373,
       "isDeleted": false,
       "id": "u0obztCTjApP59xIECnm9",
       "fillStyle": "hachure",
@@ -979,7 +1057,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676990741054,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1008,12 +1086,14 @@
           216.91195060997916,
           156.71220154357297
         ]
-      ]
+      ],
+      "index": "aO",
+      "frameId": null
     },
     {
       "type": "arrow",
-      "version": 1031,
-      "versionNonce": 1330063969,
+      "version": 1032,
+      "versionNonce": 1132663075,
       "isDeleted": false,
       "id": "yDk5t8Z_Wc_ZMjYazItwC",
       "fillStyle": "hachure",
@@ -1034,7 +1114,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676990878372,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1063,12 +1143,14 @@
           201.01701246617085,
           776.1486268499352
         ]
-      ]
+      ],
+      "index": "aP",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 171,
-      "versionNonce": 2105736143,
+      "version": 172,
+      "versionNonce": 1993098893,
       "isDeleted": false,
       "id": "6hKVIdlnbLTzICpDfpkKX",
       "fillStyle": "hachure",
@@ -1096,7 +1178,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676991019704,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -1105,12 +1187,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "User Action(ProgressTracking)\n   审计中/待审计/初稿中..."
+      "originalText": "User Action(ProgressTracking)\n   审计中/待审计/初稿中...",
+      "index": "aQ",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.2321428571428572
     },
     {
       "type": "arrow",
-      "version": 106,
-      "versionNonce": 1877059361,
+      "version": 107,
+      "versionNonce": 1609233603,
       "isDeleted": false,
       "id": "KfbtnTjziMBfi6l1UzF7h",
       "fillStyle": "hachure",
@@ -1131,7 +1217,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676991013886,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1156,12 +1242,14 @@
           167.14285714285757,
           -1.925210162687108
         ]
-      ]
+      ],
+      "index": "aR",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 31,
-      "versionNonce": 913353199,
+      "version": 32,
+      "versionNonce": 536734957,
       "isDeleted": false,
       "id": "Wtb4int2uvnvWS6cdPBBM",
       "fillStyle": "hachure",
@@ -1185,7 +1273,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1676991019704,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -1194,12 +1282,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "HospitalAuditCenter"
+      "originalText": "HospitalAuditCenter",
+      "index": "aS",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.1428571428571428
     },
     {
       "type": "arrow",
-      "version": 38,
-      "versionNonce": 1293331617,
+      "version": 39,
+      "versionNonce": 1490379875,
       "isDeleted": false,
       "id": "hkitD2hmBS4PMldLIX_s8",
       "fillStyle": "hachure",
@@ -1220,7 +1312,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1676991019704,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1245,12 +1337,14 @@
           261.4285714285711,
           0
         ]
-      ]
+      ],
+      "index": "aT",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 18,
-      "versionNonce": 1378936360,
+      "version": 20,
+      "versionNonce": 2106142733,
       "isDeleted": false,
       "id": "cKBPeeKi8OAbtHhnLJntv",
       "fillStyle": "hachure",
@@ -1269,7 +1363,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1677034693445,
+      "updated": 1734075774501,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -1278,12 +1372,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "风险自评系统-com.audit.se.seallhospital"
+      "originalText": "风险自评系统-com.audit.se.seallhospital",
+      "index": "aU",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285714
     },
     {
       "type": "text",
-      "version": 58,
-      "versionNonce": 1081066792,
+      "version": 59,
+      "versionNonce": 370204675,
       "isDeleted": false,
       "id": "nPCbVnm9f_W9V9o0WpPAO",
       "fillStyle": "hachure",
@@ -1302,7 +1400,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1677034796993,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -1311,12 +1409,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "\"自评中\""
+      "originalText": "\"自评中\"",
+      "index": "aV",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285714
     },
     {
       "type": "text",
-      "version": 19,
-      "versionNonce": 944674392,
+      "version": 20,
+      "versionNonce": 938431917,
       "isDeleted": false,
       "id": "cgc-iofcxv99ldRTh97bB",
       "fillStyle": "hachure",
@@ -1335,7 +1437,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1677034797787,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -1344,12 +1446,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "com.audit.se.hospitalselist"
+      "originalText": "com.audit.se.hospitalselist",
+      "index": "aW",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.1428571428571428
     },
     {
       "type": "text",
-      "version": 58,
-      "versionNonce": 1962751898,
+      "version": 59,
+      "versionNonce": 26994595,
       "isDeleted": false,
       "id": "RVz8qSrMc3nOU2I9XpaxS",
       "fillStyle": "hachure",
@@ -1375,7 +1481,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1677047161901,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 26.48101265822785,
@@ -1384,12 +1490,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "自评手册-SelfRisk"
+      "originalText": "自评手册-SelfRisk",
+      "index": "aX",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285716
     },
     {
       "type": "text",
-      "version": 55,
-      "versionNonce": 1313285894,
+      "version": 56,
+      "versionNonce": 1681004557,
       "isDeleted": false,
       "id": "k2jCzdOUojqvRE6gTPVcV",
       "fillStyle": "hachure",
@@ -1419,7 +1529,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1677047161901,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 26.48101265822785,
@@ -1428,12 +1538,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "自评主表-SelfEvaluation"
+      "originalText": "自评主表-SelfEvaluation",
+      "index": "aY",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285716
     },
     {
       "type": "text",
-      "version": 45,
-      "versionNonce": 2053583962,
+      "version": 46,
+      "versionNonce": 1101331267,
       "isDeleted": false,
       "id": "NKdyy8PsoF7jrISJnK9is",
       "fillStyle": "hachure",
@@ -1459,7 +1573,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1677047161901,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 26.48101265822785,
@@ -1468,12 +1582,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "自评明细表-SelfEvaluationDetail"
+      "originalText": "自评明细表-SelfEvaluationDetail",
+      "index": "aZ",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285716
     },
     {
       "type": "arrow",
-      "version": 293,
-      "versionNonce": 753965490,
+      "version": 294,
+      "versionNonce": 1403883117,
       "isDeleted": false,
       "id": "W5PQG2UxXJY2uLLVo8otR",
       "fillStyle": "hachure",
@@ -1496,7 +1614,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1677035957559,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1521,12 +1639,14 @@
           10.622354748126961,
           146.59132007233273
         ]
-      ]
+      ],
+      "index": "aa",
+      "frameId": null
     },
     {
       "type": "arrow",
-      "version": 244,
-      "versionNonce": 1725338482,
+      "version": 245,
+      "versionNonce": 847944419,
       "isDeleted": false,
       "id": "dvE7BZg33PLBrdyAUhC6k",
       "fillStyle": "hachure",
@@ -1549,7 +1669,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1677035957559,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1574,12 +1694,14 @@
           11.157838321670496,
           168.6588306208559
         ]
-      ]
+      ],
+      "index": "ab",
+      "frameId": null
     },
     {
       "type": "text",
-      "version": 56,
-      "versionNonce": 706238022,
+      "version": 57,
+      "versionNonce": 86718669,
       "isDeleted": false,
       "id": "x5Mcxc0VfMOVwz5dmHLgo",
       "fillStyle": "hachure",
@@ -1600,7 +1722,7 @@
       ],
       "roundness": null,
       "boundElements": [],
-      "updated": 1677047161901,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 26.481012658227854,
@@ -1609,12 +1731,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审计手册-Risk"
+      "originalText": "审计手册-Risk",
+      "index": "ac",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285714
     },
     {
       "type": "text",
-      "version": 75,
-      "versionNonce": 1660131610,
+      "version": 76,
+      "versionNonce": 551241347,
       "isDeleted": false,
       "id": "pscbi43i1ZipF9JpyT0zY",
       "fillStyle": "hachure",
@@ -1644,7 +1770,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1677047161901,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 26.481012658227854,
@@ -1653,12 +1779,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审计主表-AuditRecord"
+      "originalText": "审计主表-AuditRecord",
+      "index": "ad",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285714
     },
     {
       "type": "text",
-      "version": 95,
-      "versionNonce": 713137542,
+      "version": 96,
+      "versionNonce": 1648662317,
       "isDeleted": false,
       "id": "NoAXD43SV5QrUv1MhQYL4",
       "fillStyle": "hachure",
@@ -1684,7 +1814,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1677047161901,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "fontSize": 26.48101265822785,
@@ -1693,12 +1823,16 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "审计明细表-AuditRecordDetail"
+      "originalText": "审计明细表-AuditRecordDetail",
+      "index": "ae",
+      "frameId": null,
+      "autoResize": true,
+      "lineHeight": 1.3214285714285716
     },
     {
       "type": "arrow",
-      "version": 212,
-      "versionNonce": 103027886,
+      "version": 213,
+      "versionNonce": 1129676323,
       "isDeleted": false,
       "id": "a1ektTC1Shhzn9EFM6PCS",
       "fillStyle": "hachure",
@@ -1721,7 +1855,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1677035957559,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": null,
@@ -1742,12 +1876,14 @@
           -6.980496424662275,
           115.06630500301374
         ]
-      ]
+      ],
+      "index": "af",
+      "frameId": null
     },
     {
       "type": "arrow",
-      "version": 304,
-      "versionNonce": 911822574,
+      "version": 305,
+      "versionNonce": 1700997517,
       "isDeleted": false,
       "id": "LXjTH_huv6yEYI24kRnqO",
       "fillStyle": "hachure",
@@ -1770,7 +1906,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1677035957559,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1795,12 +1931,14 @@
           -3.083146128259135,
           174.96383363471952
         ]
-      ]
+      ],
+      "index": "ag",
+      "frameId": null
     },
     {
       "type": "image",
-      "version": 144,
-      "versionNonce": 388269894,
+      "version": 145,
+      "versionNonce": 1961345475,
       "isDeleted": false,
       "id": "PEEnAJIzKvoSm07l6hqzt",
       "fillStyle": "hachure",
@@ -1819,7 +1957,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1677047193268,
+      "updated": 1734074661009,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -1827,11 +1965,53 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "ah",
+      "frameId": null,
+      "crop": null
+    },
+    {
+      "id": "Z1bqZ4hVBNuT3dE8VAaco",
+      "type": "text",
+      "x": -2234.3730158730164,
+      "y": 3138.2857142857156,
+      "width": 2805.876953125,
+      "height": 3413.1999999999994,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ai",
+      "roundness": null,
+      "seed": 20304525,
+      "version": 267,
+      "versionNonce": 1066077997,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1734075902925,
+      "link": null,
+      "locked": false,
+      "text": "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n附件上传\nAuditDetailFind\nHospitalAuditReply\n\n变更说明        \n1.        对风险提示类的审计项目，新增附件上传报告功能-页面 auditfxtshreport。\n\n2.        风险提示类的报告查看先判断如果是上传附件的报告，打开附件报告进行在线查看并带有水印，如没有上传附件，报告查看原金格word内转化的报告内容。\n报告查看相关页面：audithome、personalaudit、auditfxtshosp、authorizedreportview、auditfxtsview auditfxtshome 页面“风险提示函按钮”。\n\naudithome->WCAuditUnderwayAll->\n   AttachmentMasterStatus:create,save\naudithome->WCAuditFinishedAll->\n\npersonalaudit->WCAuditFinishedPersonal\n\nauditfxtshosp->\n\nauthorizedreportview->\n\nauditfxtsview->\n\nGetReportManual\n &BC_risk.Load(RiskId)  学习这一点\n \n附件 HospitalReplyAttachment \n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nAuditRecordBussinessType\n*HospitalAuditCenter(\"板块评价\")->AuditRecordSuggestion 生成板块AuditRecordBussinessType记录\n*auditmidreportreview(\"归档\") 生成板块AuditRecordBussinessType记录  这里点归档 就是为了把之前没存分数的板块存到系统的\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n表：\nAuditRecord\nFxglGroupAuth(风险管理集团职能中心权限)\nAuditFxtsAttachment\nAuditFxtsRela(风险提示审计关联业务板块或职能中心)\nAuditFxtsReply(风险提示回复)\n\nString：\nAuditRecordTypeFXTS\n  \nauditfxtshreport\n\n页面：\n Webpanel\n        ->AuditFxts                                                        \n                ->AuditFxtsHome(省区风险提示),AuditFxtsHosp(医院风险提示),AuditFxtsSQ(省区风险提示)                ->AuditFXTSHReport(风险提示函审计报告),AuditFXTSView(风险提示查看),AddFxtsReply(风险提示回复),\n        ->AuditProject                \n                ->AddFxtsAudit(新增风险提示),AuditFxglGroupAuth(风险管理板块集团授权),AuditFxtsGroupList(集团风险提示函列表)\n ->AuditFxtsAuth(选择业务板块/职能中心)\n ->AuditReport\n        ->AuditReportAuthorize(审计报告授权管理)\n\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n*3.        “其他审计”也需要排除计算历史审计发现的逻辑之外（hospitalauditcenter）。\npGetLastAudit\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n前置调用：...\n*AuditFXTSHReport\n 弹框：\n  Event 'Doprompt':AuditFxtsAuth.Popup(&auditrecordid)\n  Event 'DoUpdHospLeaveDate':UpdHospArriveLeaveDate.Popup(&auditrecordid)  [未使用,可以删掉]\n  \n 表：\n  AuditFxtsRela\n  AuditFxtsAttachment \n  \n 权限：\n  Btn_MidGenerateAuditReport\n\n 金格模版：\n  report_fxts\n  \n Procedure:\n  pFXTSReminder \n \n SDT结构体：\n  AuditFxtsAuthlistFuncSDT\n  AuditFxtsAuthlistBusiSDT\n\n*AuditFxtsHome\n 弹框：\n  AuditFxtsHosp.Call(&SDTCurrentUser.UserOrgMasterId)\n  Event &toReply.Click:AuditFXTSView.Call(AuditRecordId)\n  Event &FxtsAuthorize.Click:AuditReportAuthorize.Popup(AuditRecordId)\n  \n 表：  \n   \n  \n 权限：\n  \n\n 金格模版：\n  \n  \n Procedure:\n   \n \n SDT结构体： \n   \n \n Trancaction的Rules中的初始化代码： \n   \n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n",
+      "fontSize": 28,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n附件上传\nAuditDetailFind\nHospitalAuditReply\n\n变更说明        \n1.        对风险提示类的审计项目，新增附件上传报告功能-页面 auditfxtshreport。\n\n2.        风险提示类的报告查看先判断如果是上传附件的报告，打开附件报告进行在线查看并带有水印，如没有上传附件，报告查看原金格word内转化的报告内容。\n报告查看相关页面：audithome、personalaudit、auditfxtshosp、authorizedreportview、auditfxtsview auditfxtshome 页面“风险提示函按钮”。\n\naudithome->WCAuditUnderwayAll->\n   AttachmentMasterStatus:create,save\naudithome->WCAuditFinishedAll->\n\npersonalaudit->WCAuditFinishedPersonal\n\nauditfxtshosp->\n\nauthorizedreportview->\n\nauditfxtsview->\n\nGetReportManual\n &BC_risk.Load(RiskId)  学习这一点\n \n附件 HospitalReplyAttachment \n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nAuditRecordBussinessType\n*HospitalAuditCenter(\"板块评价\")->AuditRecordSuggestion 生成板块AuditRecordBussinessType记录\n*auditmidreportreview(\"归档\") 生成板块AuditRecordBussinessType记录  这里点归档 就是为了把之前没存分数的板块存到系统的\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n表：\nAuditRecord\nFxglGroupAuth(风险管理集团职能中心权限)\nAuditFxtsAttachment\nAuditFxtsRela(风险提示审计关联业务板块或职能中心)\nAuditFxtsReply(风险提示回复)\n\nString：\nAuditRecordTypeFXTS\n  \nauditfxtshreport\n\n页面：\n Webpanel\n        ->AuditFxts                                                        \n                ->AuditFxtsHome(省区风险提示),AuditFxtsHosp(医院风险提示),AuditFxtsSQ(省区风险提示)                ->AuditFXTSHReport(风险提示函审计报告),AuditFXTSView(风险提示查看),AddFxtsReply(风险提示回复),\n        ->AuditProject                \n                ->AddFxtsAudit(新增风险提示),AuditFxglGroupAuth(风险管理板块集团授权),AuditFxtsGroupList(集团风险提示函列表)\n ->AuditFxtsAuth(选择业务板块/职能中心)\n ->AuditReport\n        ->AuditReportAuthorize(审计报告授权管理)\n\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n*3.        “其他审计”也需要排除计算历史审计发现的逻辑之外（hospitalauditcenter）。\npGetLastAudit\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n前置调用：...\n*AuditFXTSHReport\n 弹框：\n  Event 'Doprompt':AuditFxtsAuth.Popup(&auditrecordid)\n  Event 'DoUpdHospLeaveDate':UpdHospArriveLeaveDate.Popup(&auditrecordid)  [未使用,可以删掉]\n  \n 表：\n  AuditFxtsRela\n  AuditFxtsAttachment \n  \n 权限：\n  Btn_MidGenerateAuditReport\n\n 金格模版：\n  report_fxts\n  \n Procedure:\n  pFXTSReminder \n \n SDT结构体：\n  AuditFxtsAuthlistFuncSDT\n  AuditFxtsAuthlistBusiSDT\n\n*AuditFxtsHome\n 弹框：\n  AuditFxtsHosp.Call(&SDTCurrentUser.UserOrgMasterId)\n  Event &toReply.Click:AuditFXTSView.Call(AuditRecordId)\n  Event &FxtsAuthorize.Click:AuditReportAuthorize.Popup(AuditRecordId)\n  \n 表：  \n   \n  \n 权限：\n  \n\n 金格模版：\n  \n  \n Procedure:\n   \n \n SDT结构体： \n   \n \n Trancaction的Rules中的初始化代码： \n   \n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n",
+      "autoResize": true,
+      "lineHeight": 1.15
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#f1f3f5"
   },
   "files": {
