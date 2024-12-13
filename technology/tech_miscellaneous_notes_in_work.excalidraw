@@ -113,7 +113,8 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "crop": null
     },
     {
       "type": "image",
@@ -149,7 +150,8 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "crop": null
     },
     {
       "type": "image",
@@ -185,7 +187,8 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "crop": null
     },
     {
       "type": "arrow",
@@ -307,7 +310,8 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "crop": null
     },
     {
       "id": "XF7IQSSoYYdPxmcgtLegs",
@@ -334,7 +338,7 @@
       "version": 89,
       "versionNonce": 690380616,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1717464084423,
       "link": null,
       "locked": false,
@@ -343,7 +347,8 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "crop": null
     },
     {
       "id": "TpRgMRnVA84R6c3tgsY_C",
@@ -370,7 +375,7 @@
       "version": 5,
       "versionNonce": 711465272,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1717464084423,
       "link": null,
       "locked": false,
@@ -383,10 +388,49 @@
       "originalText": "4.",
       "autoResize": true,
       "lineHeight": 1.15
+    },
+    {
+      "id": "5F5rMZEhHUKB9PvjpAWg0",
+      "type": "text",
+      "x": 537.5607638888883,
+      "y": 1963.1583333333335,
+      "width": 1245.7890625,
+      "height": 1380,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 70,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": null,
+      "seed": 690878167,
+      "version": 109,
+      "versionNonce": 1905451511,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1734077225143,
+      "link": null,
+      "locked": false,
+      "text": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n*页面布局\n\n\n*弹框\n\n\n*ajax请求\n\n\n*列表(多选,多列表)\n\n\n*表格编辑\n\n\n*自定义属性\n\n\n*原生JS\n\n\n*CSS样式表\n\n\n*前后端传参${param}; 将实体转换为JSON对象，再使用model.addAttribute传到页面去\n\n\n*页面元素显示与隐藏\n\n\n*权限控制,权限控制显示与隐藏\n\n\n*附件上传下载\n\n*数据库，com.aier.cloud.service.config.JdbcHelper直接在Controller写sql\n\n*动态doc生成(template.js)\n\n\n*动态ID(id=\"form-row-{{id}}\"),拼接Id($('.drop-docRoom-' + opt[1]);)\n\n\n*做查询列表参考：\n E:\\Project1\\amcs\\aier-amcs-ui\\src\\main\\webapp\\WEB-INF\\views\\amcs\\adverseEvent\\eventManage\\eventList.ftl\n 有事件委托  $('#gridBox').datagrid('getPanel')...\n 动态ID\n 行编辑\n 根据条件 显示/隐藏列 if(${pageType} == 4) { $(\"#gridBox\").datagrid(\"showColumn\",\"tags\");...}\n\n*Mapper文件级联查询 collection  StdAdaptationMapper.xml\n\n\n*定时任务，发送消息 SendMsgToExpertJobHandler\n\n*requirejs继承的js模块使用手册; js工具类\n   lodash.min.js:https://www.lodashjs.com/docs/lodash.min\n",
+      "fontSize": 20,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n*页面布局\n\n\n*弹框\n\n\n*ajax请求\n\n\n*列表(多选,多列表)\n\n\n*表格编辑\n\n\n*自定义属性\n\n\n*原生JS\n\n\n*CSS样式表\n\n\n*前后端传参${param}; 将实体转换为JSON对象，再使用model.addAttribute传到页面去\n\n\n*页面元素显示与隐藏\n\n\n*权限控制,权限控制显示与隐藏\n\n\n*附件上传下载\n\n*数据库，com.aier.cloud.service.config.JdbcHelper直接在Controller写sql\n\n*动态doc生成(template.js)\n\n\n*动态ID(id=\"form-row-{{id}}\"),拼接Id($('.drop-docRoom-' + opt[1]);)\n\n\n*做查询列表参考：\n E:\\Project1\\amcs\\aier-amcs-ui\\src\\main\\webapp\\WEB-INF\\views\\amcs\\adverseEvent\\eventManage\\eventList.ftl\n 有事件委托  $('#gridBox').datagrid('getPanel')...\n 动态ID\n 行编辑\n 根据条件 显示/隐藏列 if(${pageType} == 4) { $(\"#gridBox\").datagrid(\"showColumn\",\"tags\");...}\n\n*Mapper文件级联查询 collection  StdAdaptationMapper.xml\n\n\n*定时任务，发送消息 SendMsgToExpertJobHandler\n\n*requirejs继承的js模块使用手册; js工具类\n   lodash.min.js:https://www.lodashjs.com/docs/lodash.min\n",
+      "autoResize": true,
+      "lineHeight": 1.15
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#f1f3f5"
   },
   "files": {
