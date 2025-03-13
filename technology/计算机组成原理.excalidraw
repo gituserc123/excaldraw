@@ -22,11 +22,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1118868274,
-      "version": 197,
-      "versionNonce": 577566702,
+      "version": 198,
+      "versionNonce": 1853602233,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1706859433243,
+      "boundElements": [],
+      "updated": 1741049648730,
       "link": null,
       "locked": false,
       "text": "或非门 或门+非门 NOR\n\n与非门 与门+非门 NAND",
@@ -37,7 +37,9 @@
       "baseline": 63,
       "containerId": null,
       "originalText": "或非门 或门+非门 NOR\n\n与非门 与门+非门 NAND",
-      "lineHeight": 1.15
+      "lineHeight": 1.15,
+      "index": "a0",
+      "autoResize": true
     },
     {
       "id": "QmZ8Eob3h-bS_px7GZVG8",
@@ -58,11 +60,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1077932274,
-      "version": 142,
-      "versionNonce": 1982057006,
+      "version": 143,
+      "versionNonce": 327195223,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1706859433243,
+      "boundElements": [],
+      "updated": 1741049648731,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -70,7 +72,9 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "a1",
+      "crop": null
     },
     {
       "id": "wiJkvAnv407o-pWmseY-g",
@@ -91,11 +95,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 131242674,
-      "version": 135,
-      "versionNonce": 439341618,
+      "version": 136,
+      "versionNonce": 1445862041,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1706860096926,
+      "boundElements": [],
+      "updated": 1741049648731,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -103,12 +107,14 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "a2",
+      "crop": null
     },
     {
       "type": "text",
-      "version": 266,
-      "versionNonce": 1769252978,
+      "version": 267,
+      "versionNonce": 2135504759,
       "isDeleted": false,
       "id": "7hYb-Htwf0IHMLY6Q_u5U",
       "fillStyle": "hachure",
@@ -128,7 +134,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1706859450268,
+      "updated": 1741049648731,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -139,7 +145,9 @@
       "containerId": null,
       "originalText": "或门 OR\n\n与门 AND",
       "lineHeight": 1.15,
-      "baseline": 63
+      "baseline": 63,
+      "index": "a3",
+      "autoResize": true
     },
     {
       "id": "Syu8IgQEM7D_gc03eY_PX",
@@ -160,11 +168,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1278838958,
-      "version": 337,
-      "versionNonce": 50766706,
+      "version": 338,
+      "versionNonce": 1587634041,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1706860399667,
+      "boundElements": [],
+      "updated": 1741049648731,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -172,7 +180,9 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "a4",
+      "crop": null
     },
     {
       "id": "LwXX4Mg_mHSYcjG2K3rlw",
@@ -193,11 +203,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 629813550,
-      "version": 116,
-      "versionNonce": 1399599790,
+      "version": 117,
+      "versionNonce": 1581330583,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1706860450849,
+      "boundElements": [],
+      "updated": 1741049648731,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -205,11 +215,15 @@
       "scale": [
         1,
         1
-      ]
+      ],
+      "index": "a5",
+      "crop": null
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#f1f3f5"
   },
   "files": {
